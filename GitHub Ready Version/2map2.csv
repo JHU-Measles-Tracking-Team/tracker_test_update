@@ -97,8 +97,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 38035,Grand Forks,North Dakota,-97.4569,47.9219,3,local,1.0
 20067,Grant,Kansas,-101.308,37.5623,0,imported,0.0
 20067,Grant,Kansas,-101.308,37.5623,0,local,0.0
-20069,Gray,Kansas,-100.4379,37.7382,6,imported,0.0
-20069,Gray,Kansas,-100.4379,37.7382,6,local,6.0
+20069,Gray,Kansas,-100.4379,37.7382,3,imported,0.0
+20069,Gray,Kansas,-100.4379,37.7382,3,local,3.0
 48189,Hale,Texas,-101.8269,34.0705,0,imported,0.0
 48189,Hale,Texas,-101.8269,34.0705,0,local,0.0
 48197,Hardeman,Texas,-99.7457,34.2902,0,imported,0.0
@@ -187,6 +187,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 22071,Orleans,Louisiana,-89.9289,30.0687,0,local,0.0
 48369,Parmer,Texas,-102.7845,34.5301,0,imported,0.0
 48369,Parmer,Texas,-102.7845,34.5301,0,local,0.0
+20145,Pawnee,Kansas,-99.2367,38.1813,3,imported,0.0
+20145,Pawnee,Kansas,-99.2367,38.1813,3,local,3.0
 42101,Philadelphia,Pennsylvania,-75.1339,40.0077,0,imported,0.0
 42101,Philadelphia,Pennsylvania,-75.1339,40.0077,0,local,0.0
 6061,Placer,California,-120.7177,39.0634,0,imported,0.0
@@ -205,8 +207,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 48381,Randall,Texas,-101.897,34.9659,2,local,2.0
 48389,Reeves,Texas,-103.693,31.323,0,imported,0.0
 48389,Reeves,Texas,-103.693,31.323,0,local,0.0
-20155,Reno,Kansas,-98.086,37.953,1,imported,0.0
-20155,Reno,Kansas,-98.086,37.953,1,local,1.0
+20155,Reno,Kansas,-98.086,37.953,0,imported,0.0
+20155,Reno,Kansas,-98.086,37.953,0,local,0.0
 6065,Riverside,California,-115.9938,33.7436,0,imported,0.0
 6065,Riverside,California,-115.9938,33.7436,0,local,0.0
 48397,Rockwall,Texas,-96.4079,32.8978,0,imported,0.0
@@ -219,12 +221,14 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 35043,Sandoval,New Mexico,-106.8659,35.6886,6,local,6.0
 48415,Scurry,Texas,-100.9164,32.7463,1,imported,0.0
 48415,Scurry,Texas,-100.9164,32.7463,1,local,1.0
-20173,Sedgwick,Kansas,-97.461,37.6848,1,imported,0.0
-20173,Sedgwick,Kansas,-97.461,37.6848,1,local,1.0
+20173,Sedgwick,Kansas,-97.461,37.6848,0,imported,0.0
+20173,Sedgwick,Kansas,-97.461,37.6848,0,local,0.0
 48417,Shackelford,Texas,-99.354,32.7359,0,imported,0.0
 48417,Shackelford,Texas,-99.354,32.7359,0,local,0.0
 47157,Shelby,Tennessee,-89.8938,35.1843,0,imported,0.0
 47157,Shelby,Tennessee,-89.8938,35.1843,0,local,0.0
+31161,Sheridan,Nebraska,-102.4089,42.5048,1,imported,1.0
+31161,Sheridan,Nebraska,-102.4089,42.5048,1,local,0.0
 53061,Snohomish,Washington,-121.6972,48.0474,0,imported,0.0
 53061,Snohomish,Washington,-121.6972,48.0474,0,local,0.0
 20189,Stevens,Kansas,-101.3121,37.1923,0,imported,0.0
