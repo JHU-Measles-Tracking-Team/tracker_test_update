@@ -9,6 +9,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 2020,Anchorage,Alaska,-149.1082,61.1498,1,local,1.0
 48003,Andrews,Texas,-102.6377,32.305,3,imported,0.0
 48003,Andrews,Texas,-102.6377,32.305,3,local,3.0
+8005,Arapahoe,Colorado,-104.3393,39.6498,2,imported,2.0
+8005,Arapahoe,Colorado,-104.3393,39.6498,2,local,0.0
 8007,Archuleta,Colorado,-107.0483,37.1935,1,imported,0.0
 8007,Archuleta,Colorado,-107.0483,37.1935,1,local,1.0
 39007,Ashtabula,Ohio,-80.7482,41.7072,11,imported,1.0
@@ -31,6 +33,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 48049,Brown,Texas,-98.9998,31.7742,1,local,1.0
 42017,Bucks,Pennsylvania,-75.1069,40.337,1,imported,1.0
 42017,Bucks,Pennsylvania,-75.1069,40.337,1,local,0.0
+38013,Burke,North Dakota,-102.5182,48.791,1,imported,1.0
+38013,Burke,North Dakota,-102.5182,48.791,1,local,0.0
 48065,Carson,Texas,-101.3542,35.4035,1,imported,0.0
 48065,Carson,Texas,-101.3542,35.4035,1,local,1.0
 38017,Cass,North Dakota,-97.248,46.933,7,imported,2.0
@@ -61,12 +65,12 @@ fips,county,state,longitude,latitude,cases_total,type,count
 35013,Dona Ana,New Mexico,-106.8328,32.3526,2,local,2.0
 48133,Eastland,Texas,-98.8323,32.3271,2,imported,0.0
 48133,Eastland,Texas,-98.8323,32.3271,2,local,2.0
-48135,Ector,Texas,-102.5429,31.8692,11,imported,0.0
-48135,Ector,Texas,-102.5429,31.8692,11,local,11.0
+48135,Ector,Texas,-102.5429,31.8692,12,imported,0.0
+48135,Ector,Texas,-102.5429,31.8692,12,local,12.0
 35015,Eddy,New Mexico,-104.3044,32.4714,3,imported,0.0
 35015,Eddy,New Mexico,-104.3044,32.4714,3,local,3.0
-48141,El Paso,Texas,-106.2348,31.7686,57,imported,0.0
-48141,El Paso,Texas,-106.2348,31.7686,57,local,57.0
+48141,El Paso,Texas,-106.2348,31.7686,59,imported,0.0
+48141,El Paso,Texas,-106.2348,31.7686,59,local,59.0
 48143,Erath,Texas,-98.2179,32.2363,1,imported,0.0
 48143,Erath,Texas,-98.2179,32.2363,1,local,1.0
 42049,Erie,Pennsylvania,-80.0327,41.9925,8,imported,2.0
@@ -75,8 +79,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 5045,Faulkner,Arkansas,-105.2505,39.5864,4,local,3.0
 20055,Finney,Kansas,-100.737,38.0443,4,imported,1.0
 20055,Finney,Kansas,-100.737,38.0443,4,local,3.0
-30029,Flathead,Montana,-114.0497,48.2951,1,imported,1.0
-30029,Flathead,Montana,-114.0497,48.2951,1,local,0.0
+30029,Flathead,Montana,-114.0497,48.2951,2,imported,2.0
+30029,Flathead,Montana,-114.0497,48.2951,2,local,0.0
 20057,Ford,Kansas,-99.888,37.6917,3,imported,0.0
 20057,Ford,Kansas,-99.888,37.6917,3,local,3.0
 48157,Fort Bend,Texas,-95.7709,29.5275,1,imported,0.0
@@ -87,14 +91,14 @@ fips,county,state,longitude,latitude,cases_total,type,count
 6019,Fresno,California,-119.6493,36.7582,2,local,1.0
 13121,Fulton,Georgia,-84.467,33.7902,4,imported,2.0
 13121,Fulton,Georgia,-84.467,33.7902,4,local,2.0
-48165,Gaines,Texas,-102.6352,32.7408,408,imported,0.0
-48165,Gaines,Texas,-102.6352,32.7408,408,local,408.0
-30031,Gallatin,Montana,-111.1704,45.5404,9,imported,5.0
-30031,Gallatin,Montana,-111.1704,45.5404,9,local,4.0
+48165,Gaines,Texas,-102.6352,32.7408,409,imported,0.0
+48165,Gaines,Texas,-102.6352,32.7408,409,local,409.0
+30031,Gallatin,Montana,-111.1704,45.5404,10,imported,5.0
+30031,Gallatin,Montana,-111.1704,45.5404,10,local,5.0
 48169,Garza,Texas,-101.2984,33.1799,2,imported,0.0
 48169,Garza,Texas,-101.2984,33.1799,2,local,2.0
-38035,Grand Forks,North Dakota,-97.4569,47.9219,3,imported,2.0
-38035,Grand Forks,North Dakota,-97.4569,47.9219,3,local,1.0
+38035,Grand Forks,North Dakota,-97.4569,47.9219,8,imported,2.0
+38035,Grand Forks,North Dakota,-97.4569,47.9219,8,local,6.0
 20067,Grant,Kansas,-101.308,37.5623,3,imported,0.0
 20067,Grant,Kansas,-101.308,37.5623,3,local,3.0
 20069,Gray,Kansas,-100.4379,37.7382,24,imported,0.0
@@ -105,8 +109,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 48197,Hardeman,Texas,-99.7457,34.2902,1,local,1.0
 48201,Harris,Texas,-95.3938,29.8578,4,imported,0.0
 48201,Harris,Texas,-95.3938,29.8578,4,local,4.0
-48203,Harrison,Texas,-94.3715,32.5481,1,imported,0.0
-48203,Harrison,Texas,-94.3715,32.5481,1,local,1.0
+48203,Harrison,Texas,-94.3715,32.5481,3,imported,0.0
+48203,Harrison,Texas,-94.3715,32.5481,3,local,3.0
 20081,Haskell,Kansas,-100.8712,37.5622,10,imported,0.0
 20081,Haskell,Kansas,-100.8712,37.5622,10,local,10.0
 48209,Hays,Texas,-98.0312,30.0579,1,imported,0.0
@@ -123,8 +127,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 15003,Honolulu,Hawaii,-158.0739,21.4899,2,local,0.0
 24027,Howard,Maryland,-76.9312,39.2507,1,imported,1.0
 24027,Howard,Maryland,-76.9312,39.2507,1,local,0.0
-26065,Ingham,Michigan,-84.3735,42.5971,2,imported,1.0
-26065,Ingham,Michigan,-84.3735,42.5971,2,local,1.0
+26065,Ingham,Michigan,-84.3735,42.5971,1,imported,1.0
+26065,Ingham,Michigan,-84.3735,42.5971,1,local,0.0
 2122,Kenai Peninsula,Alaska,-151.5651,60.2654,1,imported,1.0
 2122,Kenai Peninsula,Alaska,-151.5651,60.2654,1,local,0.0
 26081,Kent,Michigan,-85.5493,43.0322,1,imported,1.0
@@ -135,8 +139,6 @@ fips,county,state,longitude,latitude,cases_total,type,count
 20097,Kiowa,Kansas,-99.2861,37.5582,6,local,6.0
 39083,Knox,Ohio,-82.4215,40.3988,20,imported,3.0
 39083,Knox,Ohio,-82.4215,40.3988,20,local,17.0
-47093,Knox,Tennessee,-83.9371,35.9932,5,imported,0.0
-47093,Knox,Tennessee,-83.9371,35.9932,5,local,5.0
 48277,Lamar,Texas,-95.5712,33.6673,20,imported,0.0
 48277,Lamar,Texas,-95.5712,33.6673,20,local,20.0
 48279,Lamb,Texas,-102.3517,34.0686,1,imported,0.0
@@ -155,12 +157,16 @@ fips,county,state,longitude,latitude,cases_total,type,count
 48305,Lynn,Texas,-101.8161,33.1768,2,local,2.0
 26099,Macomb,Michigan,-82.9323,42.6957,1,imported,1.0
 26099,Macomb,Michigan,-82.9323,42.6957,1,local,0.0
+26103,Marquette,Michigan,-87.6416,46.4313,1,imported,0.0
+26103,Marquette,Michigan,-87.6416,46.4313,1,local,1.0
 48317,Martin,Texas,-101.9513,32.306,3,imported,0.0
 48317,Martin,Texas,-101.9513,32.306,3,local,3.0
-48309,McLennan,Texas,-97.2018,31.5524,1,imported,0.0
-48309,McLennan,Texas,-97.2018,31.5524,1,local,1.0
+48309,McLennan,Texas,-97.2018,31.5524,8,imported,0.0
+48309,McLennan,Texas,-97.2018,31.5524,8,local,8.0
 12086,Miami-Dade,Florida,-80.5624,25.615,1,imported,0.0
 12086,Miami-Dade,Florida,-80.5624,25.615,1,local,1.0
+0,Mid-Cumberland Region,Tennessee,-87.0033,36.2448,2,imported,0.0
+0,Mid-Cumberland Region,Tennessee,-87.0033,36.2448,2,local,2.0
 48329,Midland,Texas,-102.0316,31.8691,5,imported,0.0
 48329,Midland,Texas,-102.0316,31.8691,5,local,5.0
 26117,Montcalm,Michigan,-85.1525,43.311,4,imported,1.0
@@ -183,8 +189,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 6059,Orange,California,-117.7609,33.7031,1,local,0.0
 36071,Orange,New York,-74.3056,41.4022,4,imported,3.0
 36071,Orange,New York,-74.3056,41.4022,4,local,1.0
-22071,Orleans,Louisiana,-89.9289,30.0687,1,imported,1.0
-22071,Orleans,Louisiana,-89.9289,30.0687,1,local,0.0
+22071,Orleans,Louisiana,-89.9289,30.0687,2,imported,1.0
+22071,Orleans,Louisiana,-89.9289,30.0687,2,local,1.0
 48369,Parmer,Texas,-102.7845,34.5301,5,imported,0.0
 48369,Parmer,Texas,-102.7845,34.5301,5,local,5.0
 20145,Pawnee,Kansas,-99.2367,38.1813,3,imported,0.0
@@ -205,8 +211,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 8101,Pueblo,Colorado,-104.5127,38.1735,1,local,0.0
 48381,Randall,Texas,-101.897,34.9659,3,imported,0.0
 48381,Randall,Texas,-101.897,34.9659,3,local,3.0
-48389,Reeves,Texas,-103.693,31.323,1,imported,0.0
-48389,Reeves,Texas,-103.693,31.323,1,local,1.0
+48389,Reeves,Texas,-103.693,31.323,2,imported,0.0
+48389,Reeves,Texas,-103.693,31.323,2,local,2.0
 20155,Reno,Kansas,-98.086,37.953,1,imported,0.0
 20155,Reno,Kansas,-98.086,37.953,1,local,1.0
 6065,Riverside,California,-115.9938,33.7436,1,imported,1.0
@@ -225,8 +231,6 @@ fips,county,state,longitude,latitude,cases_total,type,count
 20173,Sedgwick,Kansas,-97.461,37.6848,1,local,1.0
 48417,Shackelford,Texas,-99.354,32.7359,1,imported,0.0
 48417,Shackelford,Texas,-99.354,32.7359,1,local,1.0
-47157,Shelby,Tennessee,-89.8938,35.1843,1,imported,0.0
-47157,Shelby,Tennessee,-89.8938,35.1843,1,local,1.0
 31161,Sheridan,Nebraska,-102.4089,42.5048,1,imported,1.0
 31161,Sheridan,Nebraska,-102.4089,42.5048,1,local,0.0
 53061,Snohomish,Washington,-121.6972,48.0474,2,imported,2.0
@@ -245,11 +249,15 @@ fips,county,state,longitude,latitude,cases_total,type,count
 48453,Travis,Texas,-97.782,30.3344,2,local,2.0
 6109,Tuolumne,California,-119.9548,38.0276,2,imported,2.0
 6109,Tuolumne,California,-119.9548,38.0276,2,local,0.0
+0,Upper Cumberland Region,Tennessee,-85.5394,36.1541,4,imported,0.0
+0,Upper Cumberland Region,Tennessee,-85.5394,36.1541,4,local,4.0
 48459,Upshur,Texas,-94.9415,32.7363,5,imported,0.0
 48459,Upshur,Texas,-94.9415,32.7363,5,local,5.0
 38105,Williams,North Dakota,-103.4802,48.3437,13,imported,1.0
 38105,Williams,North Dakota,-103.4802,48.3437,13,local,12.0
 17199,Williamson,Illinois,-88.9299,37.7303,4,imported,0.0
 17199,Williamson,Illinois,-88.9299,37.7303,4,local,4.0
+48491,Williamson,Texas,-97.6004,30.6475,6,imported,0.0
+48491,Williamson,Texas,-97.6004,30.6475,6,local,6.0
 48501,Yoakum,Texas,-102.8278,33.173,20,imported,0.0
 48501,Yoakum,Texas,-102.8278,33.173,20,local,20.0
