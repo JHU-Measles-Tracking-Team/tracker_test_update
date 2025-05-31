@@ -77,12 +77,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 42049,Erie,Pennsylvania,-80.0327,41.9925,8,local,6.0
 5045,Faulkner,Arkansas,-105.2505,39.5864,4,imported,1.0
 5045,Faulkner,Arkansas,-105.2505,39.5864,4,local,3.0
-20055,Finney,Kansas,-100.737,38.0443,4,imported,1.0
-20055,Finney,Kansas,-100.737,38.0443,4,local,3.0
 30029,Flathead,Montana,-114.0497,48.2951,2,imported,2.0
 30029,Flathead,Montana,-114.0497,48.2951,2,local,0.0
-20057,Ford,Kansas,-99.888,37.6917,3,imported,0.0
-20057,Ford,Kansas,-99.888,37.6917,3,local,3.0
 48157,Fort Bend,Texas,-95.7709,29.5275,1,imported,0.0
 48157,Fort Bend,Texas,-95.7709,29.5275,1,local,1.0
 21073,Franklin,Kentucky,-84.877,38.2392,2,imported,2.0
@@ -99,8 +95,6 @@ fips,county,state,longitude,latitude,cases_total,type,count
 48169,Garza,Texas,-101.2984,33.1799,2,local,2.0
 38035,Grand Forks,North Dakota,-97.4569,47.9219,8,imported,2.0
 38035,Grand Forks,North Dakota,-97.4569,47.9219,8,local,6.0
-20067,Grant,Kansas,-101.308,37.5623,3,imported,0.0
-20067,Grant,Kansas,-101.308,37.5623,3,local,3.0
 20069,Gray,Kansas,-100.4379,37.7382,24,imported,0.0
 20069,Gray,Kansas,-100.4379,37.7382,24,local,24.0
 48189,Hale,Texas,-101.8269,34.0705,5,imported,0.0
@@ -173,8 +167,6 @@ fips,county,state,longitude,latitude,cases_total,type,count
 26117,Montcalm,Michigan,-85.1525,43.311,4,local,3.0
 42091,Montgomery,Pennsylvania,-75.3673,40.2108,1,imported,1.0
 42091,Montgomery,Pennsylvania,-75.3673,40.2108,1,local,0.0
-20129,Morton,Kansas,-101.7992,37.1914,2,imported,0.0
-20129,Morton,Kansas,-101.7992,37.1914,2,local,2.0
 29143,New Madrid,Missouri,-89.6517,36.5946,1,imported,0.0
 29143,New Madrid,Missouri,-89.6517,36.5946,1,local,1.0
 36061,New York,New York,-73.9668,40.7792,6,imported,0.0
@@ -193,8 +185,6 @@ fips,county,state,longitude,latitude,cases_total,type,count
 22071,Orleans,Louisiana,-89.9289,30.0687,2,local,1.0
 48369,Parmer,Texas,-102.7845,34.5301,5,imported,0.0
 48369,Parmer,Texas,-102.7845,34.5301,5,local,5.0
-20145,Pawnee,Kansas,-99.2367,38.1813,3,imported,0.0
-20145,Pawnee,Kansas,-99.2367,38.1813,3,local,3.0
 42101,Philadelphia,Pennsylvania,-75.1339,40.0077,2,imported,2.0
 42101,Philadelphia,Pennsylvania,-75.1339,40.0077,2,local,0.0
 6061,Placer,California,-120.7177,39.0634,1,imported,1.0
@@ -213,8 +203,6 @@ fips,county,state,longitude,latitude,cases_total,type,count
 48381,Randall,Texas,-101.897,34.9659,3,local,3.0
 48389,Reeves,Texas,-103.693,31.323,2,imported,0.0
 48389,Reeves,Texas,-103.693,31.323,2,local,2.0
-20155,Reno,Kansas,-98.086,37.953,1,imported,0.0
-20155,Reno,Kansas,-98.086,37.953,1,local,1.0
 6065,Riverside,California,-115.9938,33.7436,1,imported,1.0
 6065,Riverside,California,-115.9938,33.7436,1,local,0.0
 48397,Rockwall,Texas,-96.4079,32.8978,2,imported,0.0
@@ -227,8 +215,6 @@ fips,county,state,longitude,latitude,cases_total,type,count
 35043,Sandoval,New Mexico,-106.8659,35.6886,6,local,6.0
 48415,Scurry,Texas,-100.9164,32.7463,1,imported,0.0
 48415,Scurry,Texas,-100.9164,32.7463,1,local,1.0
-20173,Sedgwick,Kansas,-97.461,37.6848,1,imported,0.0
-20173,Sedgwick,Kansas,-97.461,37.6848,1,local,1.0
 48417,Shackelford,Texas,-99.354,32.7359,1,imported,0.0
 48417,Shackelford,Texas,-99.354,32.7359,1,local,1.0
 31161,Sheridan,Nebraska,-102.4089,42.5048,1,imported,1.0
@@ -249,6 +235,10 @@ fips,county,state,longitude,latitude,cases_total,type,count
 48453,Travis,Texas,-97.782,30.3344,2,local,2.0
 6109,Tuolumne,California,-119.9548,38.0276,2,imported,2.0
 6109,Tuolumne,California,-119.9548,38.0276,2,local,0.0
+19,Unknown County,Iowa,-93.037218,41.93663,1,imported,0.0
+19,Unknown County,Iowa,-93.037218,41.93663,1,local,1.0
+20,Unknown County,Kansas,-96.409286,38.480984,17,imported,0.0
+20,Unknown County,Kansas,-96.409286,38.480984,17,local,17.0
 0,Upper Cumberland Region,Tennessee,-85.5394,36.1541,4,imported,0.0
 0,Upper Cumberland Region,Tennessee,-85.5394,36.1541,4,local,4.0
 48459,Upshur,Texas,-94.9415,32.7363,5,imported,0.0
