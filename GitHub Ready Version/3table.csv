@@ -1,5 +1,5 @@
 County,Imported,Local,Total,Recent 2 Weeks
-U.S.,75,1051,1126,85
+U.S.,75,1051,1126,84
 "Gaines, Texas",0,409,409,3
 "Lea, New Mexico",0,66,66,1
 "Terry, Texas",0,60,60,0
@@ -12,7 +12,7 @@ U.S.,75,1051,1126,85
 "Yoakum, Texas",0,20,20,0
 "Unknown County, Kansas",0,17,17,0
 "Cochran, Texas",0,14,14,0
-"Oklahoma, Oklahoma",0,14,14,0
+"Unknown County, Oklahoma",0,14,14,0
 "Williams, North Dakota",1,12,13,3
 "Ector, Texas",0,12,12,1
 "Ashtabula, Ohio",1,10,11,0
@@ -36,7 +36,7 @@ U.S.,75,1051,1126,85
 "Parmer, Texas",0,5,5,0
 "Upshur, Texas",0,5,5,0
 "Faulkner, Arkansas",1,3,4,0
-"Fulton, Georgia",2,2,4,1
+"Fulton, Georgia",2,2,4,0
 "Harris, Texas",0,4,4,0
 "King, Washington",3,1,4,1
 "Los Angeles, California",4,0,4,0

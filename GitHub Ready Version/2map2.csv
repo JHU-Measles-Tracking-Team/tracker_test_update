@@ -85,8 +85,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 21073,Franklin,Kentucky,-84.877,38.2392,0,local,0.0
 6019,Fresno,California,-119.6493,36.7582,0,imported,0.0
 6019,Fresno,California,-119.6493,36.7582,0,local,0.0
-13121,Fulton,Georgia,-84.467,33.7902,1,imported,1.0
-13121,Fulton,Georgia,-84.467,33.7902,1,local,0.0
+13121,Fulton,Georgia,-84.467,33.7902,0,imported,0.0
+13121,Fulton,Georgia,-84.467,33.7902,0,local,0.0
 48165,Gaines,Texas,-102.6352,32.7408,3,imported,0.0
 48165,Gaines,Texas,-102.6352,32.7408,3,local,3.0
 30031,Gallatin,Montana,-111.1704,45.5404,2,imported,0.0
@@ -173,8 +173,6 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 36061,New York,New York,-73.9668,40.7792,0,local,0.0
 26125,Oakland,Michigan,-83.3858,42.6604,0,imported,0.0
 26125,Oakland,Michigan,-83.3858,42.6604,0,local,0.0
-40109,Oklahoma,Oklahoma,-97.4072,35.5515,0,imported,0.0
-40109,Oklahoma,Oklahoma,-97.4072,35.5515,0,local,0.0
 36069,Ontario,New York,-77.2998,42.8528,1,imported,0.0
 36069,Ontario,New York,-77.2998,42.8528,1,local,1.0
 6059,Orange,California,-117.7609,33.7031,0,imported,0.0
@@ -239,6 +237,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 19,Unknown County,Iowa,-93.037218,41.93663,1,local,1.0
 20,Unknown County,Kansas,-96.409286,38.480984,0,imported,0.0
 20,Unknown County,Kansas,-96.409286,38.480984,0,local,0.0
+40109,Unknown County,Oklahoma,-96.854171,35.606866,0,imported,0.0
+40109,Unknown County,Oklahoma,-96.854171,35.606866,0,local,0.0
 0,Upper Cumberland Region,Tennessee,-85.5394,36.1541,0,imported,0.0
 0,Upper Cumberland Region,Tennessee,-85.5394,36.1541,0,local,0.0
 48459,Upshur,Texas,-94.9415,32.7363,0,imported,0.0
