@@ -1,6 +1,4 @@
 fips,county,state,longitude,latitude,cases_total,type,count
-51003,Albemarle,Virginia,-78.5567,38.0229,1,imported,1.0
-51003,Albemarle,Virginia,-78.5567,38.0229,1,local,0.0
 18003,Allen,Indiana,-85.0665,41.0909,8,imported,0.0
 18003,Allen,Indiana,-85.0665,41.0909,8,local,8.0
 39003,Allen,Ohio,-84.1058,40.7715,1,imported,1.0
@@ -61,8 +59,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 39039,Defiance,Ohio,-84.4905,41.3239,1,local,0.0
 48121,Denton,Texas,-97.1168,33.2055,2,imported,0.0
 48121,Denton,Texas,-97.1168,33.2055,2,local,2.0
-8031,Denver,Colorado,-104.8758,39.762,3,imported,2.0
-8031,Denver,Colorado,-104.8758,39.762,3,local,1.0
+8031,Denver,Colorado,-104.8758,39.762,4,imported,3.0
+8031,Denver,Colorado,-104.8758,39.762,4,local,1.0
 35013,Dona Ana,New Mexico,-106.8328,32.3526,2,imported,0.0
 35013,Dona Ana,New Mexico,-106.8328,32.3526,2,local,2.0
 48133,Eastland,Texas,-98.8323,32.3271,2,imported,0.0
@@ -89,8 +87,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 21073,Franklin,Kentucky,-84.877,38.2392,2,local,0.0
 6019,Fresno,California,-119.6493,36.7582,2,imported,1.0
 6019,Fresno,California,-119.6493,36.7582,2,local,1.0
-13121,Fulton,Georgia,-84.467,33.7902,4,imported,2.0
-13121,Fulton,Georgia,-84.467,33.7902,4,local,2.0
+13121,Fulton,Georgia,-84.467,33.7902,5,imported,2.0
+13121,Fulton,Georgia,-84.467,33.7902,5,local,3.0
 48165,Gaines,Texas,-102.6352,32.7408,411,imported,0.0
 48165,Gaines,Texas,-102.6352,32.7408,411,local,411.0
 30031,Gallatin,Montana,-111.1704,45.5404,10,imported,5.0
@@ -177,6 +175,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 29143,New Madrid,Missouri,-89.6517,36.5946,1,local,1.0
 36061,New York,New York,-73.9668,40.7792,6,imported,0.0
 36061,New York,New York,-73.9668,40.7792,6,local,6.0
+0,Northwest Region,Virginia,-78.1659225,38.47988218,3,imported,2.0
+0,Northwest Region,Virginia,-78.1659225,38.47988218,3,local,1.0
 26125,Oakland,Michigan,-83.3858,42.6604,1,imported,1.0
 26125,Oakland,Michigan,-83.3858,42.6604,1,local,0.0
 36069,Ontario,New York,-77.2998,42.8528,1,imported,0.0
@@ -199,8 +199,6 @@ fips,county,state,longitude,latitude,cases_total,type,count
 48375,Potter,Texas,-101.8939,35.4013,1,local,1.0
 24033,Prince George's,Maryland,-76.8473,38.8295,2,imported,2.0
 24033,Prince George's,Maryland,-76.8473,38.8295,2,local,0.0
-51153,Prince William,Virginia,-77.4809,38.7029,1,imported,1.0
-51153,Prince William,Virginia,-77.4809,38.7029,1,local,0.0
 44007,Providence,Rhode Island,-71.58,41.8721,1,imported,1.0
 44007,Providence,Rhode Island,-71.58,41.8721,1,local,0.0
 8101,Pueblo,Colorado,-104.5127,38.1735,1,imported,1.0
@@ -223,6 +221,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 6081,San Mateo,California,-122.3291,37.4228,1,local,0.0
 35043,Sandoval,New Mexico,-106.8659,35.6886,6,imported,0.0
 35043,Sandoval,New Mexico,-106.8659,35.6886,6,local,6.0
+6085,Santa Clara,California,-121.6951,37.2318,1,imported,1.0
+6085,Santa Clara,California,-121.6951,37.2318,1,local,0.0
 48415,Scurry,Texas,-100.9164,32.7463,1,imported,0.0
 48415,Scurry,Texas,-100.9164,32.7463,1,local,1.0
 48417,Shackelford,Texas,-99.354,32.7359,1,imported,0.0

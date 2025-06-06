@@ -1,5 +1,5 @@
 County,Imported,Local,Total,Recent 2 Weeks
-U.S.,82,1073,1155,73
+U.S.,84,1075,1159,78
 "Gaines, Texas",0,411,411,3
 "Lea, New Mexico",0,67,67,2
 "Terry, Texas",0,60,60,0
@@ -33,12 +33,13 @@ U.S.,82,1073,1155,73
 "New York, New York",0,6,6,0
 "Sandoval, New Mexico",0,6,6,0
 "Williamson, Texas",0,6,6,6
+"Fulton, Georgia",2,3,5,1
 "Hale, Texas",0,5,5,0
 "Midland, Texas",0,5,5,0
 "Parmer, Texas",0,5,5,0
 "Upshur, Texas",0,5,5,0
 "Collin, Texas",0,4,4,2
-"Fulton, Georgia",2,2,4,0
+"Denver, Colorado",3,1,4,1
 "King, Washington",3,1,4,0
 "Montcalm, Michigan",1,3,4,0
 "Orange, New York",3,1,4,1
@@ -48,13 +49,13 @@ U.S.,82,1073,1155,73
 "Andrews, Texas",0,3,3,0
 "Arapahoe, Colorado",3,0,3,3
 "Bergen, New Jersey",1,2,3,0
-"Denver, Colorado",2,1,3,0
 "Eddy, New Mexico",0,3,3,0
 "El Paso, Colorado",3,0,3,3
 "Harris, Texas",0,3,3,0
 "Hill, Montana",0,3,3,2
 "Los Angeles, California",3,0,3,0
 "Martin, Texas",0,3,3,0
+"Northwest Region, Virginia",2,1,3,2
 "Randall, Texas",0,3,3,0
 "Bailey, Texas",0,2,2,0
 "Denton, Texas",0,2,2,0
@@ -78,7 +79,6 @@ U.S.,82,1073,1155,73
 "Travis, Texas",0,2,2,0
 "Tuolumne, California",2,0,2,0
 "Yellowstone, Montana",0,2,2,2
-"Albemarle, Virginia",1,0,1,0
 "Allen, Ohio",1,0,1,0
 "Anchorage, Alaska",0,1,1,0
 "Archuleta, Colorado",0,1,1,0
@@ -119,7 +119,6 @@ U.S.,82,1073,1155,73
 "Orange, California",1,0,1,0
 "Placer, California",1,0,1,0
 "Potter, Texas",0,1,1,0
-"Prince William, Virginia",1,0,1,0
 "Providence, Rhode Island",1,0,1,0
 "Pueblo, Colorado",1,0,1,0
 "Putnam, New York",0,1,1,1
@@ -127,6 +126,7 @@ U.S.,82,1073,1155,73
 "Saline, Arkansas",1,0,1,0
 "San Juan, New Mexico",0,1,1,1
 "San Mateo, California",1,0,1,0
+"Santa Clara, California",1,0,1,1
 "Scurry, Texas",0,1,1,0
 "Shackelford, Texas",0,1,1,0
 "Sheridan, Nebraska",1,0,1,1
