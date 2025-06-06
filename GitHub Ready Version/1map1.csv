@@ -51,6 +51,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 35009,Curry,New Mexico,-103.347,34.5742,1,local,1.0
 39035,Cuyahoga,Ohio,-81.6586,41.4243,1,imported,1.0
 39035,Cuyahoga,Ohio,-81.6586,41.4243,1,local,0.0
+27037,Dakota,Minnesota,-93.0654,44.6719,1,imported,0.0
+27037,Dakota,Minnesota,-93.0654,44.6719,1,local,1.0
 48111,Dallam,Texas,-102.6022,36.2779,7,imported,0.0
 48111,Dallam,Texas,-102.6022,36.2779,7,local,7.0
 48115,Dawson,Texas,-101.9476,32.7426,27,imported,0.0
@@ -159,6 +161,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 48317,Martin,Texas,-101.9513,32.306,3,local,3.0
 48309,McLennan,Texas,-97.2018,31.5524,8,imported,0.0
 48309,McLennan,Texas,-97.2018,31.5524,8,local,8.0
+46093,Meade,South Dakota,-102.7169,44.5668,1,imported,1.0
+46093,Meade,South Dakota,-102.7169,44.5668,1,local,0.0
 12086,Miami-Dade,Florida,-80.5624,25.615,1,imported,0.0
 12086,Miami-Dade,Florida,-80.5624,25.615,1,local,1.0
 0,Mid-Cumberland Region,Tennessee,-87.0033,36.2448,2,imported,0.0
@@ -245,19 +249,21 @@ fips,county,state,longitude,latitude,cases_total,type,count
 19,Unknown County,Iowa,-93.037218,41.93663,1,local,1.0
 20,Unknown County,Kansas,-96.409286,38.480984,15,imported,0.0
 20,Unknown County,Kansas,-96.409286,38.480984,15,local,15.0
-27,Unknown County,Minnesota,-93.558751,45.18999,1,imported,0.0
-27,Unknown County,Minnesota,-93.558751,45.18999,1,local,1.0
 40109,Unknown County,Oklahoma,-96.854171,35.606866,15,imported,0.0
 40109,Unknown County,Oklahoma,-96.854171,35.606866,15,local,15.0
 0,Upper Cumberland Region,Tennessee,-85.5394,36.1541,4,imported,0.0
 0,Upper Cumberland Region,Tennessee,-85.5394,36.1541,4,local,4.0
 48459,Upshur,Texas,-94.9415,32.7363,5,imported,0.0
 48459,Upshur,Texas,-94.9415,32.7363,5,local,5.0
+27163,Washington,Minnesota,-92.8838,45.0388,1,imported,1.0
+27163,Washington,Minnesota,-92.8838,45.0388,1,local,0.0
 38105,Williams,North Dakota,-103.4802,48.3437,16,imported,1.0
 38105,Williams,North Dakota,-103.4802,48.3437,16,local,15.0
 17199,Williamson,Illinois,-88.9299,37.7303,4,imported,0.0
 17199,Williamson,Illinois,-88.9299,37.7303,4,local,4.0
 48491,Williamson,Texas,-97.6004,30.6475,6,imported,0.0
 48491,Williamson,Texas,-97.6004,30.6475,6,local,6.0
+30111,Yellowstone,Montana,-108.2744,45.9373,2,imported,0.0
+30111,Yellowstone,Montana,-108.2744,45.9373,2,local,2.0
 48501,Yoakum,Texas,-102.8278,33.173,20,imported,0.0
 48501,Yoakum,Texas,-102.8278,33.173,20,local,20.0

@@ -1,13 +1,13 @@
 County,Imported,Local,Total,Recent 2 Weeks
-U.S.,80,1071,1151,95
-"Gaines, Texas",0,411,411,5
+U.S.,82,1073,1155,73
+"Gaines, Texas",0,411,411,3
 "Lea, New Mexico",0,67,67,2
 "Terry, Texas",0,60,60,0
-"El Paso, Texas",0,59,59,5
+"El Paso, Texas",0,59,59,3
 "Lubbock, Texas",0,53,53,0
 "Dawson, Texas",0,27,27,1
 "Gray, Kansas",0,25,25,4
-"Lamar, Texas",0,21,21,2
+"Lamar, Texas",0,21,21,1
 "Yoakum, Texas",0,20,20,0
 "Ashtabula, Ohio",3,13,16,0
 "Williams, North Dakota",1,15,16,1
@@ -16,12 +16,12 @@ U.S.,80,1071,1151,95
 "Cochran, Texas",0,14,14,0
 "Knox, Ohio",0,14,14,0
 "Ector, Texas",0,12,12,1
-"Haskell, Kansas",0,11,11,3
-"Gallatin, Montana",5,5,10,2
-"Grand Forks, North Dakota",2,8,10,7
+"Haskell, Kansas",0,11,11,1
+"Gallatin, Montana",5,5,10,1
+"Grand Forks, North Dakota",2,8,10,6
 "Allen, Indiana",0,8,8,0
 "Erie, Pennsylvania",2,6,8,0
-"McLennan, Texas",0,8,8,8
+"McLennan, Texas",0,8,8,7
 "Cass, North Dakota",2,5,7,0
 "Dallam, Texas",0,7,7,0
 "Pawnee, Kansas",0,7,7,7
@@ -31,10 +31,10 @@ U.S.,80,1071,1151,95
 "Hockley, Texas",0,6,6,0
 "Kiowa, Kansas",0,6,6,0
 "New York, New York",0,6,6,0
-"Sandoval, New Mexico",0,6,6,4
+"Sandoval, New Mexico",0,6,6,0
 "Williamson, Texas",0,6,6,6
 "Hale, Texas",0,5,5,0
-"Midland, Texas",0,5,5,2
+"Midland, Texas",0,5,5,0
 "Parmer, Texas",0,5,5,0
 "Upshur, Texas",0,5,5,0
 "Collin, Texas",0,4,4,2
@@ -52,15 +52,15 @@ U.S.,80,1071,1151,95
 "Eddy, New Mexico",0,3,3,0
 "El Paso, Colorado",3,0,3,3
 "Harris, Texas",0,3,3,0
-"Hill, Montana",0,3,3,3
+"Hill, Montana",0,3,3,2
 "Los Angeles, California",3,0,3,0
 "Martin, Texas",0,3,3,0
-"Randall, Texas",0,3,3,1
+"Randall, Texas",0,3,3,0
 "Bailey, Texas",0,2,2,0
-"Denton, Texas",0,2,2,1
+"Denton, Texas",0,2,2,0
 "Dona Ana, New Mexico",0,2,2,0
 "Eastland, Texas",0,2,2,0
-"Flathead, Montana",2,0,2,2
+"Flathead, Montana",2,0,2,1
 "Franklin, Kentucky",2,0,2,0
 "Fresno, California",1,1,2,0
 "Garza, Texas",0,2,2,0
@@ -77,14 +77,15 @@ U.S.,80,1071,1151,95
 "Snohomish, Washington",2,0,2,0
 "Travis, Texas",0,2,2,0
 "Tuolumne, California",2,0,2,0
-"Albemarle, Virginia",1,0,1,1
+"Yellowstone, Montana",0,2,2,2
+"Albemarle, Virginia",1,0,1,0
 "Allen, Ohio",1,0,1,0
-"Anchorage, Alaska",0,1,1,1
+"Anchorage, Alaska",0,1,1,0
 "Archuleta, Colorado",0,1,1,0
 "Atascosa, Texas",0,1,1,0
 "Borden, Texas",0,1,1,0
 "Brazoria, Texas",0,1,1,0
-"Brewster, Texas",0,1,1,1
+"Brewster, Texas",0,1,1,0
 "Broward, Florida",0,1,1,0
 "Brown, Texas",0,1,1,0
 "Bucks, Pennsylvania",1,0,1,0
@@ -93,12 +94,13 @@ U.S.,80,1071,1151,95
 "Chaves, New Mexico",0,1,1,0
 "Curry, New Mexico",0,1,1,0
 "Cuyahoga, Ohio",1,0,1,0
+"Dakota, Minnesota",0,1,1,1
 "Defiance, Ohio",1,0,1,0
 "Erath, Texas",0,1,1,0
 "Fort Bend, Texas",0,1,1,0
 "Hardeman, Texas",0,1,1,0
 "Harrison, Texas",0,1,1,0
-"Hays, Texas",0,1,1,1
+"Hays, Texas",0,1,1,0
 "Holmes, Ohio",0,1,1,0
 "Howard, Maryland",1,0,1,0
 "Ingham, Michigan",1,0,1,0
@@ -108,6 +110,7 @@ U.S.,80,1071,1151,95
 "Lamoille, Vermont",1,0,1,0
 "Lancaster, Pennsylvania",0,1,1,0
 "Macomb, Michigan",1,0,1,0
+"Meade, South Dakota",1,0,1,1
 "Miami-Dade, Florida",0,1,1,0
 "Montgomery, Pennsylvania",1,0,1,0
 "New Madrid, Missouri",0,1,1,0
@@ -124,10 +127,10 @@ U.S.,80,1071,1151,95
 "Saline, Arkansas",1,0,1,0
 "San Juan, New Mexico",0,1,1,1
 "San Mateo, California",1,0,1,0
-"Scurry, Texas",0,1,1,1
+"Scurry, Texas",0,1,1,0
 "Shackelford, Texas",0,1,1,0
 "Sheridan, Nebraska",1,0,1,1
 "Suffolk, New York",0,1,1,0
 "Taney, Missouri",1,0,1,0
-"Unknown County, Iowa",0,1,1,1
-"Unknown County, Minnesota",0,1,1,1
+"Unknown County, Iowa",0,1,1,0
+"Washington, Minnesota",1,0,1,1
