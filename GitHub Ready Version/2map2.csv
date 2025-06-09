@@ -91,12 +91,12 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 13121,Fulton,Georgia,-84.467,33.7902,1,local,1.0
 48165,Gaines,Texas,-102.6352,32.7408,3,imported,0.0
 48165,Gaines,Texas,-102.6352,32.7408,3,local,3.0
-30031,Gallatin,Montana,-111.1704,45.5404,1,imported,0.0
-30031,Gallatin,Montana,-111.1704,45.5404,1,local,1.0
+30031,Gallatin,Montana,-111.1704,45.5404,2,imported,0.0
+30031,Gallatin,Montana,-111.1704,45.5404,2,local,2.0
 48169,Garza,Texas,-101.2984,33.1799,0,imported,0.0
 48169,Garza,Texas,-101.2984,33.1799,0,local,0.0
-38035,Grand Forks,North Dakota,-97.4569,47.9219,6,imported,0.0
-38035,Grand Forks,North Dakota,-97.4569,47.9219,6,local,6.0
+38035,Grand Forks,North Dakota,-97.4569,47.9219,3,imported,0.0
+38035,Grand Forks,North Dakota,-97.4569,47.9219,3,local,3.0
 20069,Gray,Kansas,-100.4379,37.7382,4,imported,0.0
 20069,Gray,Kansas,-100.4379,37.7382,4,local,4.0
 48189,Hale,Texas,-101.8269,34.0705,0,imported,0.0
@@ -107,14 +107,14 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 48201,Harris,Texas,-95.3938,29.8578,0,local,0.0
 48203,Harrison,Texas,-94.3715,32.5481,0,imported,0.0
 48203,Harrison,Texas,-94.3715,32.5481,0,local,0.0
-20081,Haskell,Kansas,-100.8712,37.5622,1,imported,0.0
-20081,Haskell,Kansas,-100.8712,37.5622,1,local,1.0
+20081,Haskell,Kansas,-100.8712,37.5622,2,imported,0.0
+20081,Haskell,Kansas,-100.8712,37.5622,2,local,2.0
 48209,Hays,Texas,-98.0312,30.0579,0,imported,0.0
 48209,Hays,Texas,-98.0312,30.0579,0,local,0.0
 27053,Hennepin,Minnesota,-93.477,45.0046,0,imported,0.0
 27053,Hennepin,Minnesota,-93.477,45.0046,0,local,0.0
-30041,Hill,Montana,-110.1112,48.6282,2,imported,0.0
-30041,Hill,Montana,-110.1112,48.6282,2,local,2.0
+30041,Hill,Montana,-110.1112,48.6282,3,imported,0.0
+30041,Hill,Montana,-110.1112,48.6282,3,local,3.0
 48219,Hockley,Texas,-102.3432,33.6076,0,imported,0.0
 48219,Hockley,Texas,-102.3432,33.6076,0,local,0.0
 39075,Holmes,Ohio,-81.9293,40.5612,0,imported,0.0
@@ -221,8 +221,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 6081,San Mateo,California,-122.3291,37.4228,0,local,0.0
 35043,Sandoval,New Mexico,-106.8659,35.6886,0,imported,0.0
 35043,Sandoval,New Mexico,-106.8659,35.6886,0,local,0.0
-6085,Santa Clara,California,-121.6951,37.2318,1,imported,1.0
-6085,Santa Clara,California,-121.6951,37.2318,1,local,0.0
+6085,Santa Clara,California,-121.6951,37.2318,0,imported,0.0
+6085,Santa Clara,California,-121.6951,37.2318,0,local,0.0
 48415,Scurry,Texas,-100.9164,32.7463,0,imported,0.0
 48415,Scurry,Texas,-100.9164,32.7463,0,local,0.0
 48417,Shackelford,Texas,-99.354,32.7359,0,imported,0.0
@@ -249,8 +249,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 19,Unknown County,Iowa,-93.037218,41.93663,0,local,0.0
 20,Unknown County,Kansas,-96.409286,38.480984,0,imported,0.0
 20,Unknown County,Kansas,-96.409286,38.480984,0,local,0.0
-40109,Unknown County,Oklahoma,-96.854171,35.606866,1,imported,0.0
-40109,Unknown County,Oklahoma,-96.854171,35.606866,1,local,1.0
+40109,Unknown County,Oklahoma,-96.854171,35.606866,2,imported,0.0
+40109,Unknown County,Oklahoma,-96.854171,35.606866,2,local,2.0
 0,Upper Cumberland Region,Tennessee,-85.5394,36.1541,0,imported,0.0
 0,Upper Cumberland Region,Tennessee,-85.5394,36.1541,0,local,0.0
 48459,Upshur,Texas,-94.9415,32.7363,0,imported,0.0

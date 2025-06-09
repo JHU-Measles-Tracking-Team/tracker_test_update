@@ -3,8 +3,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 18003,Allen,Indiana,-85.0665,41.0909,8,local,8.0
 39003,Allen,Ohio,-84.1058,40.7715,1,imported,1.0
 39003,Allen,Ohio,-84.1058,40.7715,1,local,0.0
-2020,Anchorage,Alaska,-149.1082,61.1498,1,imported,0.0
-2020,Anchorage,Alaska,-149.1082,61.1498,1,local,1.0
+2020,Anchorage,Alaska,-149.1082,61.1498,2,imported,1.0
+2020,Anchorage,Alaska,-149.1082,61.1498,2,local,1.0
 48003,Andrews,Texas,-102.6377,32.305,3,imported,0.0
 48003,Andrews,Texas,-102.6377,32.305,3,local,3.0
 8005,Arapahoe,Colorado,-104.3393,39.6498,3,imported,3.0
@@ -91,8 +91,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 13121,Fulton,Georgia,-84.467,33.7902,5,local,3.0
 48165,Gaines,Texas,-102.6352,32.7408,411,imported,0.0
 48165,Gaines,Texas,-102.6352,32.7408,411,local,411.0
-30031,Gallatin,Montana,-111.1704,45.5404,10,imported,5.0
-30031,Gallatin,Montana,-111.1704,45.5404,10,local,5.0
+30031,Gallatin,Montana,-111.1704,45.5404,11,imported,5.0
+30031,Gallatin,Montana,-111.1704,45.5404,11,local,6.0
 48169,Garza,Texas,-101.2984,33.1799,2,imported,0.0
 48169,Garza,Texas,-101.2984,33.1799,2,local,2.0
 38035,Grand Forks,North Dakota,-97.4569,47.9219,10,imported,2.0
@@ -107,14 +107,14 @@ fips,county,state,longitude,latitude,cases_total,type,count
 48201,Harris,Texas,-95.3938,29.8578,3,local,3.0
 48203,Harrison,Texas,-94.3715,32.5481,1,imported,0.0
 48203,Harrison,Texas,-94.3715,32.5481,1,local,1.0
-20081,Haskell,Kansas,-100.8712,37.5622,11,imported,0.0
-20081,Haskell,Kansas,-100.8712,37.5622,11,local,11.0
+20081,Haskell,Kansas,-100.8712,37.5622,12,imported,0.0
+20081,Haskell,Kansas,-100.8712,37.5622,12,local,12.0
 48209,Hays,Texas,-98.0312,30.0579,1,imported,0.0
 48209,Hays,Texas,-98.0312,30.0579,1,local,1.0
 27053,Hennepin,Minnesota,-93.477,45.0046,2,imported,2.0
 27053,Hennepin,Minnesota,-93.477,45.0046,2,local,0.0
-30041,Hill,Montana,-110.1112,48.6282,3,imported,0.0
-30041,Hill,Montana,-110.1112,48.6282,3,local,3.0
+30041,Hill,Montana,-110.1112,48.6282,4,imported,0.0
+30041,Hill,Montana,-110.1112,48.6282,4,local,4.0
 48219,Hockley,Texas,-102.3432,33.6076,6,imported,0.0
 48219,Hockley,Texas,-102.3432,33.6076,6,local,6.0
 39075,Holmes,Ohio,-81.9293,40.5612,1,imported,0.0
@@ -249,8 +249,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 19,Unknown County,Iowa,-93.037218,41.93663,1,local,1.0
 20,Unknown County,Kansas,-96.409286,38.480984,15,imported,0.0
 20,Unknown County,Kansas,-96.409286,38.480984,15,local,15.0
-40109,Unknown County,Oklahoma,-96.854171,35.606866,15,imported,0.0
-40109,Unknown County,Oklahoma,-96.854171,35.606866,15,local,15.0
+40109,Unknown County,Oklahoma,-96.854171,35.606866,16,imported,0.0
+40109,Unknown County,Oklahoma,-96.854171,35.606866,16,local,16.0
 0,Upper Cumberland Region,Tennessee,-85.5394,36.1541,4,imported,0.0
 0,Upper Cumberland Region,Tennessee,-85.5394,36.1541,4,local,4.0
 48459,Upshur,Texas,-94.9415,32.7363,5,imported,0.0
