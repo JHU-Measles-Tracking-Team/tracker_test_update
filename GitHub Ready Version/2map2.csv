@@ -78,7 +78,7 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 42049,Erie,Pennsylvania,-80.0327,41.9925,0,imported,0.0
 42049,Erie,Pennsylvania,-80.0327,41.9925,0,local,0.0
 5045,Faulkner,Arkansas,-105.2505,39.5864,1,imported,0.0
-5045,Faulkner,Arkansas,-105.2505,39.5864,1,local,2.0
+5045,Faulkner,Arkansas,-105.2505,39.5864,1,local,1.0
 30029,Flathead,Montana,-114.0497,48.2951,1,imported,1.0
 30029,Flathead,Montana,-114.0497,48.2951,1,local,0.0
 48157,Fort Bend,Texas,-95.7709,29.5275,0,imported,0.0
