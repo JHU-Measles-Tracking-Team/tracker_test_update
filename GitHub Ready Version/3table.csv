@@ -1,5 +1,5 @@
 County,Imported,Local,Total,Recent 2 Weeks
-U.S.,85,1079,1164,78
+U.S.,85,1082,1167,81
 "Gaines, Texas",0,411,411,3
 "Lea, New Mexico",0,67,67,2
 "Terry, Texas",0,60,60,0
@@ -79,6 +79,7 @@ U.S.,85,1079,1164,78
 "Snohomish, Washington",2,0,2,0
 "Travis, Texas",0,2,2,0
 "Tuolumne, California",2,0,2,0
+"Unknown County, Colorado",0,2,2,2
 "Yellowstone, Montana",0,2,2,2
 "Allen, Ohio",1,0,1,0
 "Archuleta, Colorado",0,1,1,0
@@ -117,6 +118,7 @@ U.S.,85,1079,1164,78
 "Oakland, Michigan",1,0,1,0
 "Ontario, New York",0,1,1,1
 "Orange, California",1,0,1,0
+"Pennington, South Dakota",0,1,1,1
 "Placer, California",1,0,1,0
 "Potter, Texas",0,1,1,0
 "Providence, Rhode Island",1,0,1,0

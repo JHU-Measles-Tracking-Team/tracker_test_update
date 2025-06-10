@@ -191,6 +191,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 48369,Parmer,Texas,-102.7845,34.5301,5,local,5.0
 20145,Pawnee,Kansas,-99.2367,38.1813,7,imported,0.0
 20145,Pawnee,Kansas,-99.2367,38.1813,7,local,7.0
+46103,Pennington,South Dakota,-102.8238,44.0037,1,imported,0.0
+46103,Pennington,South Dakota,-102.8238,44.0037,1,local,1.0
 42101,Philadelphia,Pennsylvania,-75.1339,40.0077,2,imported,2.0
 42101,Philadelphia,Pennsylvania,-75.1339,40.0077,2,local,0.0
 6061,Placer,California,-120.7177,39.0634,1,imported,1.0
@@ -245,6 +247,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 48453,Travis,Texas,-97.782,30.3344,2,local,2.0
 6109,Tuolumne,California,-119.9548,38.0276,2,imported,2.0
 6109,Tuolumne,California,-119.9548,38.0276,2,local,0.0
+8,Unknown County,Colorado,-105.185361,39.534747,2,imported,0.0
+8,Unknown County,Colorado,-105.185361,39.534747,2,local,2.0
 19,Unknown County,Iowa,-93.037218,41.93663,1,imported,0.0
 19,Unknown County,Iowa,-93.037218,41.93663,1,local,1.0
 20,Unknown County,Kansas,-96.409286,38.480984,15,imported,0.0
