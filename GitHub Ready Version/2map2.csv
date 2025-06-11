@@ -1,4 +1,6 @@
 fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
+,Allegan,Michigan,-85.8883,42.5913,1,imported,0.0
+,Allegan,Michigan,-85.8883,42.5913,1,local,1.0
 ,Allen,Indiana,-85.0665,41.0909,0,imported,0.0
 ,Allen,Indiana,-85.0665,41.0909,0,local,0.0
 ,Allen,Ohio,-84.1058,40.7715,0,imported,0.0
@@ -7,8 +9,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Anchorage,Alaska,-149.1082,61.1498,0,local,0.0
 ,Andrews,Texas,-102.6377,32.305,0,imported,0.0
 ,Andrews,Texas,-102.6377,32.305,0,local,0.0
-,Arapahoe,Colorado,-104.3393,39.6498,3,imported,3.0
-,Arapahoe,Colorado,-104.3393,39.6498,3,local,0.0
+,Arapahoe,Colorado,-104.3393,39.6498,4,imported,4.0
+,Arapahoe,Colorado,-104.3393,39.6498,4,local,0.0
 ,Archuleta,Colorado,-107.0483,37.1935,0,imported,0.0
 ,Archuleta,Colorado,-107.0483,37.1935,0,local,0.0
 ,Ashtabula,Ohio,-80.7482,41.7072,0,imported,0.0
@@ -69,8 +71,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Ector,Texas,-102.5429,31.8692,1,local,1.0
 ,Eddy,New Mexico,-104.3044,32.4714,0,imported,0.0
 ,Eddy,New Mexico,-104.3044,32.4714,0,local,0.0
-,El Paso,Colorado,-104.5254,38.8321,3,imported,3.0
-,El Paso,Colorado,-104.5254,38.8321,3,local,0.0
+,El Paso,Colorado,-104.5254,38.8321,4,imported,4.0
+,El Paso,Colorado,-104.5254,38.8321,4,local,0.0
 ,El Paso,Texas,-106.2348,31.7686,3,imported,0.0
 ,El Paso,Texas,-106.2348,31.7686,3,local,3.0
 ,Erath,Texas,-98.2179,32.2363,0,imported,0.0
@@ -91,8 +93,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Fulton,Georgia,-84.467,33.7902,1,local,1.0
 ,Gaines,Texas,-102.6352,32.7408,3,imported,0.0
 ,Gaines,Texas,-102.6352,32.7408,3,local,3.0
-,Gallatin,Montana,-111.1704,45.5404,2,imported,0.0
-,Gallatin,Montana,-111.1704,45.5404,2,local,2.0
+,Gallatin,Montana,-111.1704,45.5404,3,imported,0.0
+,Gallatin,Montana,-111.1704,45.5404,3,local,3.0
 ,Garza,Texas,-101.2984,33.1799,0,imported,0.0
 ,Garza,Texas,-101.2984,33.1799,0,local,0.0
 ,Grand Forks,North Dakota,-97.4569,47.9219,3,imported,0.0
@@ -171,6 +173,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Montcalm,Michigan,-85.1525,43.311,0,local,0.0
 ,Montgomery,Pennsylvania,-75.3673,40.2108,0,imported,0.0
 ,Montgomery,Pennsylvania,-75.3673,40.2108,0,local,0.0
+,Navajo,Arizona,-110.3214,35.3996,4,imported,4.0
+,Navajo,Arizona,-110.3214,35.3996,4,local,0.0
 ,New Madrid,Missouri,-89.6517,36.5946,0,imported,0.0
 ,New Madrid,Missouri,-89.6517,36.5946,0,local,0.0
 ,New York,New York,-73.9668,40.7792,0,imported,0.0
@@ -247,8 +251,6 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Travis,Texas,-97.782,30.3344,0,local,0.0
 ,Tuolumne,California,-119.9548,38.0276,0,imported,0.0
 ,Tuolumne,California,-119.9548,38.0276,0,local,0.0
-,Unknown County,Colorado,-105.185361,39.534747,2,imported,0.0
-,Unknown County,Colorado,-105.185361,39.534747,2,local,2.0
 ,Unknown County,Iowa,-93.037218,41.93663,0,imported,0.0
 ,Unknown County,Iowa,-93.037218,41.93663,0,local,0.0
 ,Unknown County,Kansas,-96.409286,38.480984,0,imported,0.0
