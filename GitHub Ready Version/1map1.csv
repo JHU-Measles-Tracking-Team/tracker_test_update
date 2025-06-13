@@ -39,6 +39,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Carson,Texas,-101.3542,35.4035,1,local,1.0
 ,Cass,North Dakota,-97.248,46.933,7,imported,2.0
 ,Cass,North Dakota,-97.248,46.933,7,local,5.0
+,Central,Iowa,-93.40754375,41.84471875,1,imported,0.0
+,Central,Iowa,-93.40754375,41.84471875,1,local,1.0
 ,Chaves,New Mexico,-104.4669,33.3633,1,imported,0.0
 ,Chaves,New Mexico,-104.4669,33.3633,1,local,1.0
 ,Cochran,Texas,-102.8285,33.6042,14,imported,0.0
@@ -65,6 +67,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Denver,Colorado,-104.8758,39.762,4,local,1.0
 ,Dona Ana,New Mexico,-106.8328,32.3526,2,imported,0.0
 ,Dona Ana,New Mexico,-106.8328,32.3526,2,local,2.0
+,Eastern,Iowa,-91.64545556,41.92909259,2,imported,1.0
+,Eastern,Iowa,-91.64545556,41.92909259,2,local,1.0
 ,Eastland,Texas,-98.8323,32.3271,2,imported,0.0
 ,Eastland,Texas,-98.8323,32.3271,2,local,2.0
 ,Ector,Texas,-102.5429,31.8692,12,imported,0.0
@@ -87,6 +91,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Fort Bend,Texas,-95.7709,29.5275,1,local,1.0
 ,Franklin,Kentucky,-84.877,38.2392,2,imported,2.0
 ,Franklin,Kentucky,-84.877,38.2392,2,local,0.0
+,Franklin,Ohio,-83.0093,39.9695,1,imported,0.0
+,Franklin,Ohio,-83.0093,39.9695,1,local,1.0
 ,Fresno,California,-119.6493,36.7582,2,imported,1.0
 ,Fresno,California,-119.6493,36.7582,2,local,1.0
 ,Fulton,Georgia,-84.467,33.7902,5,imported,2.0
@@ -99,8 +105,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Garza,Texas,-101.2984,33.1799,2,local,2.0
 ,Grand Forks,North Dakota,-97.4569,47.9219,10,imported,2.0
 ,Grand Forks,North Dakota,-97.4569,47.9219,10,local,8.0
-,Gray,Kansas,-100.4379,37.7382,25,imported,0.0
-,Gray,Kansas,-100.4379,37.7382,25,local,25.0
+,Gray,Kansas,-100.4379,37.7382,26,imported,0.0
+,Gray,Kansas,-100.4379,37.7382,26,local,26.0
 ,Hale,Texas,-101.8269,34.0705,5,imported,0.0
 ,Hale,Texas,-101.8269,34.0705,5,local,5.0
 ,Hardeman,Texas,-99.7457,34.2902,1,imported,0.0
@@ -109,8 +115,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Harris,Texas,-95.3938,29.8578,3,local,3.0
 ,Harrison,Texas,-94.3715,32.5481,1,imported,0.0
 ,Harrison,Texas,-94.3715,32.5481,1,local,1.0
-,Haskell,Kansas,-100.8712,37.5622,12,imported,0.0
-,Haskell,Kansas,-100.8712,37.5622,12,local,12.0
+,Haskell,Kansas,-100.8712,37.5622,15,imported,0.0
+,Haskell,Kansas,-100.8712,37.5622,15,local,15.0
 ,Hays,Texas,-98.0312,30.0579,1,imported,0.0
 ,Hays,Texas,-98.0312,30.0579,1,local,1.0
 ,Hennepin,Minnesota,-93.477,45.0046,2,imported,2.0
@@ -153,8 +159,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Lubbock,Texas,-101.8205,33.6102,53,local,53.0
 ,Lynn,Texas,-101.8161,33.1768,2,imported,0.0
 ,Lynn,Texas,-101.8161,33.1768,2,local,2.0
-,Macomb,Michigan,-82.9323,42.6957,1,imported,1.0
-,Macomb,Michigan,-82.9323,42.6957,1,local,0.0
+,Macomb,Michigan,-82.9323,42.6957,2,imported,1.0
+,Macomb,Michigan,-82.9323,42.6957,2,local,1.0
 ,Marquette,Michigan,-87.6416,46.4313,2,imported,0.0
 ,Marquette,Michigan,-87.6416,46.4313,2,local,2.0
 ,Martin,Texas,-101.9513,32.306,3,imported,0.0
@@ -251,12 +257,12 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Travis,Texas,-97.782,30.3344,2,local,2.0
 ,Tuolumne,California,-119.9548,38.0276,2,imported,2.0
 ,Tuolumne,California,-119.9548,38.0276,2,local,0.0
-,Unknown County,Iowa,-93.037218,41.93663,1,imported,0.0
-,Unknown County,Iowa,-93.037218,41.93663,1,local,1.0
 ,Unknown County,Kansas,-96.409286,38.480984,15,imported,0.0
 ,Unknown County,Kansas,-96.409286,38.480984,15,local,15.0
-,Unknown County,Oklahoma,-96.854171,35.606866,16,imported,0.0
-,Unknown County,Oklahoma,-96.854171,35.606866,16,local,16.0
+,Unknown County,Minnesota,-93.558751,45.18999,1,imported,0.0
+,Unknown County,Minnesota,-93.558751,45.18999,1,local,1.0
+,Unknown County,Oklahoma,-96.854171,35.606866,17,imported,0.0
+,Unknown County,Oklahoma,-96.854171,35.606866,17,local,17.0
 ,Upper Cumberland Region,Tennessee,-85.5394,36.1541,4,imported,0.0
 ,Upper Cumberland Region,Tennessee,-85.5394,36.1541,4,local,4.0
 ,Upshur,Texas,-94.9415,32.7363,5,imported,0.0

@@ -1,27 +1,27 @@
 County,Imported,Local,Total,Recent 2 Weeks
-U.S.,92,1085,1177,83
-"Gaines, Texas",0,411,411,3
+U.S.,93,1094,1187,61
+"Gaines, Texas",0,411,411,2
 "Lea, New Mexico",0,67,67,1
-"El Paso, Texas",0,60,60,3
+"El Paso, Texas",0,60,60,1
 "Terry, Texas",0,60,60,0
 "Lubbock, Texas",0,53,53,0
 "Dawson, Texas",0,27,27,1
-"Gray, Kansas",0,25,25,4
+"Gray, Kansas",0,26,26,2
 "Lamar, Texas",0,21,21,1
 "Yoakum, Texas",0,20,20,0
+"Unknown County, Oklahoma",0,17,17,3
 "Ashtabula, Ohio",3,13,16,0
-"Unknown County, Oklahoma",0,16,16,2
-"Williams, North Dakota",1,15,16,1
+"Williams, North Dakota",1,15,16,0
+"Haskell, Kansas",0,15,15,5
 "Unknown County, Kansas",0,15,15,0
 "Cochran, Texas",0,14,14,0
 "Knox, Ohio",0,14,14,0
-"Ector, Texas",0,12,12,1
-"Gallatin, Montana",5,7,12,3
-"Haskell, Kansas",0,12,12,2
-"Grand Forks, North Dakota",2,8,10,3
+"Ector, Texas",0,12,12,0
+"Gallatin, Montana",5,7,12,2
+"Grand Forks, North Dakota",2,8,10,0
 "Allen, Indiana",0,8,8,0
 "Erie, Pennsylvania",2,6,8,0
-"McLennan, Texas",0,8,8,7
+"McLennan, Texas",0,8,8,0
 "Cass, North Dakota",2,5,7,0
 "Dallam, Texas",0,7,7,0
 "Pawnee, Kansas",0,7,7,7
@@ -33,12 +33,12 @@ U.S.,92,1085,1177,83
 "Midland, Texas",0,6,6,1
 "New York, New York",0,6,6,0
 "Sandoval, New Mexico",0,6,6,0
-"Williamson, Texas",0,6,6,6
+"Williamson, Texas",0,6,6,0
 "Fulton, Georgia",2,3,5,1
 "Hale, Texas",0,5,5,0
 "Parmer, Texas",0,5,5,0
 "Upshur, Texas",0,5,5,0
-"Arapahoe, Colorado",4,0,4,4
+"Arapahoe, Colorado",4,0,4,2
 "Collin, Texas",0,4,4,2
 "Denver, Colorado",3,1,4,1
 "El Paso, Colorado",4,0,4,4
@@ -62,20 +62,22 @@ U.S.,92,1085,1177,83
 "Bailey, Texas",0,2,2,0
 "Denton, Texas",0,2,2,0
 "Dona Ana, New Mexico",0,2,2,0
+"Eastern, Iowa",1,1,2,2
 "Eastland, Texas",0,2,2,0
-"Flathead, Montana",2,0,2,1
+"Flathead, Montana",2,0,2,0
 "Franklin, Kentucky",2,0,2,0
 "Fresno, California",1,1,2,0
 "Garza, Texas",0,2,2,0
 "Hennepin, Minnesota",2,0,2,0
 "Honolulu, Hawaii",2,0,2,0
 "Lynn, Texas",0,2,2,0
-"Marquette, Michigan",0,2,2,2
+"Macomb, Michigan",1,1,2,1
+"Marquette, Michigan",0,2,2,1
 "Mid-Cumberland Region, Tennessee",0,2,2,0
 "Orleans, Louisiana",1,1,2,0
 "Philadelphia, Pennsylvania",2,0,2,0
 "Prince George's, Maryland",2,0,2,0
-"Reeves, Texas",0,2,2,1
+"Reeves, Texas",0,2,2,0
 "Rockwall, Texas",0,2,2,0
 "Snohomish, Washington",2,0,2,0
 "Travis, Texas",0,2,2,0
@@ -93,6 +95,7 @@ U.S.,92,1085,1177,83
 "Bucks, Pennsylvania",1,0,1,0
 "Burke, North Dakota",1,0,1,0
 "Carson, Texas",0,1,1,0
+"Central, Iowa",0,1,1,0
 "Chaves, New Mexico",0,1,1,0
 "Curry, New Mexico",0,1,1,0
 "Cuyahoga, Ohio",1,0,1,0
@@ -100,6 +103,7 @@ U.S.,92,1085,1177,83
 "Defiance, Ohio",1,0,1,0
 "Erath, Texas",0,1,1,0
 "Fort Bend, Texas",0,1,1,0
+"Franklin, Ohio",0,1,1,0
 "Hardeman, Texas",0,1,1,0
 "Harrison, Texas",0,1,1,0
 "Hays, Texas",0,1,1,0
@@ -111,7 +115,6 @@ U.S.,92,1085,1177,83
 "Lamb, Texas",0,1,1,0
 "Lamoille, Vermont",1,0,1,0
 "Lancaster, Pennsylvania",0,1,1,0
-"Macomb, Michigan",1,0,1,0
 "Meade, South Dakota",1,0,1,1
 "Miami-Dade, Florida",0,1,1,0
 "Montgomery, Pennsylvania",1,0,1,0
@@ -132,9 +135,9 @@ U.S.,92,1085,1177,83
 "Santa Clara, California",1,0,1,0
 "Scurry, Texas",0,1,1,0
 "Shackelford, Texas",0,1,1,0
-"Sheridan, Nebraska",1,0,1,1
+"Sheridan, Nebraska",1,0,1,0
 "Suffolk, New York",0,1,1,0
 "Taney, Missouri",1,0,1,0
-"Unknown County, Iowa",0,1,1,0
+"Unknown County, Minnesota",0,1,1,1
 "Washington, Minnesota",1,0,1,1
 "Yolo, California",0,1,1,1
