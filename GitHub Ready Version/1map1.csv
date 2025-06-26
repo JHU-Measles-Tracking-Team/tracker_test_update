@@ -119,6 +119,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Grand Traverse,Michigan,-85.5605,44.6687,3,local,3.0
 ,Gray,Kansas,-100.4379,37.7382,26,imported,0.0
 ,Gray,Kansas,-100.4379,37.7382,26,local,26.0
+,Guilford,North Carolina,-79.7889,36.0795,1,imported,1.0
+,Guilford,North Carolina,-79.7889,36.0795,1,local,0.0
 ,Hale,Texas,-101.8269,34.0705,5,imported,0.0
 ,Hale,Texas,-101.8269,34.0705,5,local,5.0
 ,Hardeman,Texas,-99.7457,34.2902,1,imported,0.0
@@ -149,8 +151,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Kenai Peninsula,Alaska,-151.5651,60.2654,1,local,0.0
 ,Kent,Michigan,-85.5493,43.0322,1,imported,1.0
 ,Kent,Michigan,-85.5493,43.0322,1,local,0.0
-,King,Washington,-121.8052,47.4902,4,imported,3.0
-,King,Washington,-121.8052,47.4902,4,local,1.0
+,King,Washington,-121.8052,47.4902,6,imported,3.0
+,King,Washington,-121.8052,47.4902,6,local,3.0
 ,Kiowa,Kansas,-99.2861,37.5582,6,imported,0.0
 ,Kiowa,Kansas,-99.2861,37.5582,6,local,6.0
 ,Knox,Ohio,-82.4215,40.3988,14,imported,0.0
@@ -167,8 +169,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Lea,New Mexico,-103.4125,32.7921,67,local,67.0
 ,Leon,Florida,-84.2779,30.458,1,imported,1.0
 ,Leon,Florida,-84.2779,30.458,1,local,0.0
-,Los Angeles,California,-118.2247,34.3219,4,imported,4.0
-,Los Angeles,California,-118.2247,34.3219,4,local,0.0
+,Los Angeles,California,-118.2247,34.3219,5,imported,5.0
+,Los Angeles,California,-118.2247,34.3219,5,local,0.0
 ,Lubbock,Texas,-101.8205,33.6102,53,imported,0.0
 ,Lubbock,Texas,-101.8205,33.6102,53,local,53.0
 ,Lynn,Texas,-101.8161,33.1768,2,imported,0.0
@@ -181,8 +183,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Martin,Texas,-101.9513,32.306,3,local,3.0
 ,McLennan,Texas,-97.2018,31.5524,9,imported,0.0
 ,McLennan,Texas,-97.2018,31.5524,9,local,9.0
-,Meade,South Dakota,-102.7169,44.5668,1,imported,1.0
-,Meade,South Dakota,-102.7169,44.5668,1,local,0.0
+,Meade,South Dakota,-102.7169,44.5668,2,imported,1.0
+,Meade,South Dakota,-102.7169,44.5668,2,local,1.0
 ,Miami-Dade,Florida,-80.5624,25.615,1,imported,0.0
 ,Miami-Dade,Florida,-80.5624,25.615,1,local,1.0
 ,Mid-Cumberland Region,Tennessee,-87.0033,36.2448,2,imported,0.0
@@ -193,6 +195,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Montcalm,Michigan,-85.1525,43.311,4,local,3.0
 ,Montgomery,Pennsylvania,-75.3673,40.2108,1,imported,1.0
 ,Montgomery,Pennsylvania,-75.3673,40.2108,1,local,0.0
+,Multnomah,Oregon,-122.4149,45.5468,1,imported,1.0
+,Multnomah,Oregon,-122.4149,45.5468,1,local,0.0
 ,Navajo,Arizona,-110.3214,35.3996,4,imported,4.0
 ,Navajo,Arizona,-110.3214,35.3996,4,local,0.0
 ,New Madrid,Missouri,-89.6517,36.5946,1,imported,0.0
@@ -215,8 +219,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Parmer,Texas,-102.7845,34.5301,5,local,5.0
 ,Pawnee,Kansas,-99.2367,38.1813,7,imported,0.0
 ,Pawnee,Kansas,-99.2367,38.1813,7,local,7.0
-,Pennington,South Dakota,-102.8238,44.0037,1,imported,0.0
-,Pennington,South Dakota,-102.8238,44.0037,1,local,1.0
+,Pennington,South Dakota,-102.8238,44.0037,2,imported,0.0
+,Pennington,South Dakota,-102.8238,44.0037,2,local,2.0
 ,Philadelphia,Pennsylvania,-75.1339,40.0077,2,imported,2.0
 ,Philadelphia,Pennsylvania,-75.1339,40.0077,2,local,0.0
 ,Placer,California,-120.7177,39.0634,1,imported,1.0
@@ -259,6 +263,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Sheridan,Nebraska,-102.4089,42.5048,1,local,0.0
 ,Snohomish,Washington,-121.6972,48.0474,2,imported,2.0
 ,Snohomish,Washington,-121.6972,48.0474,2,local,0.0
+,Southwest Health District,Utah,-113.3625,37.449,2,imported,0.0
+,Southwest Health District,Utah,-113.3625,37.449,2,local,2.0
 ,Stevens,Kansas,-101.3121,37.1923,7,imported,0.0
 ,Stevens,Kansas,-101.3121,37.1923,7,local,7.0
 ,Suffolk,New York,-72.8456,40.8681,1,imported,0.0
@@ -287,8 +293,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Upper Cumberland Region,Tennessee,-85.5394,36.1541,4,local,4.0
 ,Upshur,Texas,-94.9415,32.7363,5,imported,0.0
 ,Upshur,Texas,-94.9415,32.7363,5,local,5.0
-,Utah,Utah,-111.6702,40.1199,1,imported,0.0
-,Utah,Utah,-111.6702,40.1199,1,local,1.0
+,Utah,Utah,-111.6702,40.1199,3,imported,0.0
+,Utah,Utah,-111.6702,40.1199,3,local,3.0
 ,Washington,District of Columbia,-77.0163,38.9047,1,imported,1.0
 ,Washington,District of Columbia,-77.0163,38.9047,1,local,0.0
 ,Washington,Minnesota,-92.8838,45.0388,1,imported,1.0
