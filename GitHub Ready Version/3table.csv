@@ -1,5 +1,5 @@
 County,Imported,Local,Total,Recent 2 Weeks
-U.S.,100,1129,1229,37
+U.S.,100,1137,1237,43
 "Gaines, Texas",0,413,413,2
 "Lea, New Mexico",0,67,67,0
 "El Paso, Texas",0,60,60,0
@@ -11,7 +11,7 @@ U.S.,100,1129,1229,37
 "Yoakum, Texas",0,20,20,0
 "Haskell, Kansas",0,17,17,2
 "Unknown County, Kansas",0,17,17,1
-"Unknown County, Oklahoma",0,17,17,1
+"Unknown County, Oklahoma",0,17,17,0
 "Ashtabula, Ohio",3,13,16,0
 "Williams, North Dakota",1,15,16,0
 "Gallatin, Montana",5,10,15,3
@@ -39,6 +39,7 @@ U.S.,100,1129,1229,37
 "Eastern, Iowa",1,4,5,0
 "Hale, Texas",0,5,5,0
 "Los Angeles, California",5,0,5,0
+"Luna, New Mexico",0,5,5,5
 "Parmer, Texas",0,5,5,0
 "Upshur, Texas",0,5,5,0
 "Arapahoe, Colorado",4,0,4,0
@@ -87,6 +88,7 @@ U.S.,100,1129,1229,37
 "Southwest Health District, Utah",0,2,2,2
 "Travis, Texas",0,2,2,0
 "Tuolumne, California",2,0,2,0
+"Unknown County, Utah",0,2,2,2
 "Whatcom, Washington",0,2,2,2
 "Yellowstone, Montana",0,2,2,0
 "Allegan, Michigan",0,1,1,0
@@ -96,7 +98,7 @@ U.S.,100,1129,1229,37
 "Bell, Texas",0,1,1,1
 "Benton, Arkansas",0,1,1,1
 "Borden, Texas",0,1,1,0
-"Boulder, Colorado",1,0,1,1
+"Boulder, Colorado",1,0,1,0
 "Brazoria, Texas",0,1,1,0
 "Brewster, Texas",0,1,1,0
 "Broward, Florida",0,1,1,0
@@ -131,6 +133,7 @@ U.S.,100,1129,1229,37
 "Miami-Dade, Florida",0,1,1,0
 "Montgomery, Pennsylvania",1,0,1,0
 "Multnomah, Oregon",1,0,1,1
+"Muskegon, Michigan",0,1,1,1
 "New Madrid, Missouri",0,1,1,0
 "Oakland, Michigan",1,0,1,0
 "Ontario, New York",0,1,1,0

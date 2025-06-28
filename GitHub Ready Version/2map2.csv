@@ -27,8 +27,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Bergen,New Jersey,-74.0742,40.9597,0,local,0.0
 ,Borden,Texas,-101.4317,32.7436,0,imported,0.0
 ,Borden,Texas,-101.4317,32.7436,0,local,0.0
-,Boulder,Colorado,-105.3577,40.0925,1,imported,1.0
-,Boulder,Colorado,-105.3577,40.0925,1,local,0.0
+,Boulder,Colorado,-105.3577,40.0925,0,imported,0.0
+,Boulder,Colorado,-105.3577,40.0925,0,local,0.0
 ,Brazoria,Texas,-95.4521,29.1898,0,imported,0.0
 ,Brazoria,Texas,-95.4521,29.1898,0,local,0.0
 ,Brewster,Texas,-103.2517,29.8119,0,imported,0.0
@@ -173,6 +173,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Los Angeles,California,-118.2247,34.3219,0,local,0.0
 ,Lubbock,Texas,-101.8205,33.6102,0,imported,0.0
 ,Lubbock,Texas,-101.8205,33.6102,0,local,0.0
+,Luna,New Mexico,-107.7499,32.1823,5,imported,0.0
+,Luna,New Mexico,-107.7499,32.1823,5,local,5.0
 ,Lynn,Texas,-101.8161,33.1768,0,imported,0.0
 ,Lynn,Texas,-101.8161,33.1768,0,local,0.0
 ,Macomb,Michigan,-82.9323,42.6957,0,imported,0.0
@@ -197,6 +199,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Montgomery,Pennsylvania,-75.3673,40.2108,0,local,0.0
 ,Multnomah,Oregon,-122.4149,45.5468,1,imported,1.0
 ,Multnomah,Oregon,-122.4149,45.5468,1,local,0.0
+,Muskegon,Michigan,-86.152,43.2912,1,imported,0.0
+,Muskegon,Michigan,-86.152,43.2912,1,local,1.0
 ,Navajo,Arizona,-110.3214,35.3996,0,imported,0.0
 ,Navajo,Arizona,-110.3214,35.3996,0,local,0.0
 ,New Madrid,Missouri,-89.6517,36.5946,0,imported,0.0
@@ -287,8 +291,10 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Unknown County,Kansas,-96.409286,38.480984,1,local,1.0
 ,Unknown County,Minnesota,-93.558751,45.18999,0,imported,0.0
 ,Unknown County,Minnesota,-93.558751,45.18999,0,local,0.0
-,Unknown County,Oklahoma,-96.854171,35.606866,1,imported,0.0
-,Unknown County,Oklahoma,-96.854171,35.606866,1,local,1.0
+,Unknown County,Oklahoma,-96.854171,35.606866,0,imported,0.0
+,Unknown County,Oklahoma,-96.854171,35.606866,0,local,0.0
+,Unknown County,Utah,-111.948021,40.385835,2,imported,0.0
+,Unknown County,Utah,-111.948021,40.385835,2,local,2.0
 ,Upper Cumberland Region,Tennessee,-85.5394,36.1541,0,imported,0.0
 ,Upper Cumberland Region,Tennessee,-85.5394,36.1541,0,local,0.0
 ,Upshur,Texas,-94.9415,32.7363,0,imported,0.0
