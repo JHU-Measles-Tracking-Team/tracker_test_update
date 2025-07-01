@@ -25,6 +25,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Benton,Arkansas,-94.2561,36.3387,1,local,1.0
 ,Bergen,New Jersey,-74.0742,40.9597,3,imported,1.0
 ,Bergen,New Jersey,-74.0742,40.9597,3,local,2.0
+,Bexar,Texas,-98.52,29.4489,1,imported,0.0
+,Bexar,Texas,-98.52,29.4489,1,local,1.0
 ,Borden,Texas,-101.4317,32.7436,1,imported,0.0
 ,Borden,Texas,-101.4317,32.7436,1,local,1.0
 ,Boulder,Colorado,-105.3577,40.0925,1,imported,1.0
@@ -85,8 +87,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Eddy,New Mexico,-104.3044,32.4714,3,local,3.0
 ,El Paso,Colorado,-104.5254,38.8321,4,imported,4.0
 ,El Paso,Colorado,-104.5254,38.8321,4,local,0.0
-,El Paso,Texas,-106.2348,31.7686,60,imported,0.0
-,El Paso,Texas,-106.2348,31.7686,60,local,60.0
+,El Paso,Texas,-106.2348,31.7686,61,imported,0.0
+,El Paso,Texas,-106.2348,31.7686,61,local,61.0
 ,Erath,Texas,-98.2179,32.2363,1,imported,0.0
 ,Erath,Texas,-98.2179,32.2363,1,local,1.0
 ,Erie,Pennsylvania,-80.0327,41.9925,8,imported,2.0
@@ -95,22 +97,24 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Fannin,Texas,-96.1069,33.5938,1,local,1.0
 ,Faulkner,Arkansas,-92.332,35.147,6,imported,1.0
 ,Faulkner,Arkansas,-92.332,35.147,6,local,5.0
+,Fayette,Kentucky,-84.4587,38.0423,1,imported,0.0
+,Fayette,Kentucky,-84.4587,38.0423,1,local,1.0
 ,Flathead,Montana,-114.0497,48.2951,2,imported,2.0
 ,Flathead,Montana,-114.0497,48.2951,2,local,0.0
 ,Fort Bend,Texas,-95.7709,29.5275,1,imported,0.0
 ,Fort Bend,Texas,-95.7709,29.5275,1,local,1.0
-,Franklin,Kentucky,-84.877,38.2392,2,imported,2.0
-,Franklin,Kentucky,-84.877,38.2392,2,local,0.0
+,Franklin,Kentucky,-84.877,38.2392,1,imported,1.0
+,Franklin,Kentucky,-84.877,38.2392,1,local,0.0
 ,Franklin,Ohio,-83.0093,39.9695,1,imported,0.0
 ,Franklin,Ohio,-83.0093,39.9695,1,local,1.0
 ,Fresno,California,-119.6493,36.7582,2,imported,1.0
 ,Fresno,California,-119.6493,36.7582,2,local,1.0
 ,Fulton,Georgia,-84.467,33.7902,6,imported,2.0
 ,Fulton,Georgia,-84.467,33.7902,6,local,4.0
-,Gaines,Texas,-102.6352,32.7408,413,imported,0.0
-,Gaines,Texas,-102.6352,32.7408,413,local,413.0
-,Gallatin,Montana,-111.1704,45.5404,15,imported,5.0
-,Gallatin,Montana,-111.1704,45.5404,15,local,10.0
+,Gaines,Texas,-102.6352,32.7408,414,imported,0.0
+,Gaines,Texas,-102.6352,32.7408,414,local,414.0
+,Gallatin,Montana,-111.1704,45.5404,16,imported,5.0
+,Gallatin,Montana,-111.1704,45.5404,16,local,11.0
 ,Garza,Texas,-101.2984,33.1799,2,imported,0.0
 ,Garza,Texas,-101.2984,33.1799,2,local,2.0
 ,Grand Forks,North Dakota,-97.4569,47.9219,10,imported,2.0
@@ -157,8 +161,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Kiowa,Kansas,-99.2861,37.5582,6,local,6.0
 ,Knox,Ohio,-82.4215,40.3988,14,imported,0.0
 ,Knox,Ohio,-82.4215,40.3988,14,local,14.0
-,Lamar,Texas,-95.5712,33.6673,23,imported,0.0
-,Lamar,Texas,-95.5712,33.6673,23,local,23.0
+,Lamar,Texas,-95.5712,33.6673,26,imported,0.0
+,Lamar,Texas,-95.5712,33.6673,26,local,26.0
 ,Lamb,Texas,-102.3517,34.0686,1,imported,0.0
 ,Lamb,Texas,-102.3517,34.0686,1,local,1.0
 ,Lamoille,Vermont,-72.6419,44.607,1,imported,1.0
@@ -173,8 +177,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Los Angeles,California,-118.2247,34.3219,5,local,0.0
 ,Lubbock,Texas,-101.8205,33.6102,53,imported,0.0
 ,Lubbock,Texas,-101.8205,33.6102,53,local,53.0
-,Luna,New Mexico,-107.7499,32.1823,5,imported,0.0
-,Luna,New Mexico,-107.7499,32.1823,5,local,5.0
+,Luna,New Mexico,-107.7499,32.1823,13,imported,0.0
+,Luna,New Mexico,-107.7499,32.1823,13,local,13.0
 ,Lynn,Texas,-101.8161,33.1768,2,imported,0.0
 ,Lynn,Texas,-101.8161,33.1768,2,local,2.0
 ,Macomb,Michigan,-82.9323,42.6957,2,imported,1.0
@@ -279,6 +283,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Tarrant,Texas,-97.2911,32.7719,4,local,4.0
 ,Terry,Texas,-102.3352,33.1738,60,imported,0.0
 ,Terry,Texas,-102.3352,33.1738,60,local,60.0
+,Todd,Kentucky,-87.1792,36.8357,1,imported,0.0
+,Todd,Kentucky,-87.1792,36.8357,1,local,1.0
 ,Travis,Texas,-97.782,30.3344,2,imported,0.0
 ,Travis,Texas,-97.782,30.3344,2,local,2.0
 ,Tuolumne,California,-119.9548,38.0276,2,imported,2.0
@@ -289,6 +295,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Unknown County,Colorado,-105.185361,39.534747,1,local,1.0
 ,Unknown County,Kansas,-96.409286,38.480984,17,imported,0.0
 ,Unknown County,Kansas,-96.409286,38.480984,17,local,17.0
+,Unknown County,Kentucky,-85.261296,37.838308,1,imported,1.0
+,Unknown County,Kentucky,-85.261296,37.838308,1,local,0.0
 ,Unknown County,Minnesota,-93.558751,45.18999,1,imported,0.0
 ,Unknown County,Minnesota,-93.558751,45.18999,1,local,1.0
 ,Unknown County,Oklahoma,-96.854171,35.606866,17,imported,0.0
@@ -313,6 +321,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Williamson,Illinois,-88.9299,37.7303,4,local,4.0
 ,Williamson,Texas,-97.6004,30.6475,6,imported,0.0
 ,Williamson,Texas,-97.6004,30.6475,6,local,6.0
+,Woodford,Kentucky,-84.7436,38.0424,3,imported,0.0
+,Woodford,Kentucky,-84.7436,38.0424,3,local,3.0
 ,Yellowstone,Montana,-108.2744,45.9373,2,imported,0.0
 ,Yellowstone,Montana,-108.2744,45.9373,2,local,2.0
 ,Yoakum,Texas,-102.8278,33.173,20,imported,0.0
