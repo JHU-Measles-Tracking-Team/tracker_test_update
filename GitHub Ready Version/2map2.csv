@@ -109,8 +109,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Franklin,Ohio,-83.0093,39.9695,0,local,0.0
 ,Fresno,California,-119.6493,36.7582,0,imported,0.0
 ,Fresno,California,-119.6493,36.7582,0,local,0.0
-,Fulton,Georgia,-84.467,33.7902,1,imported,0.0
-,Fulton,Georgia,-84.467,33.7902,1,local,1.0
+,Fulton,Georgia,-84.467,33.7902,0,imported,0.0
+,Fulton,Georgia,-84.467,33.7902,0,local,0.0
 ,Gaines,Texas,-102.6352,32.7408,1,imported,0.0
 ,Gaines,Texas,-102.6352,32.7408,1,local,1.0
 ,Gallatin,Montana,-111.1704,45.5404,4,imported,0.0
@@ -121,8 +121,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Grand Forks,North Dakota,-97.4569,47.9219,0,local,0.0
 ,Grand Traverse,Michigan,-85.5605,44.6687,3,imported,0.0
 ,Grand Traverse,Michigan,-85.5605,44.6687,3,local,3.0
-,Gray,Kansas,-100.4379,37.7382,0,imported,0.0
-,Gray,Kansas,-100.4379,37.7382,0,local,0.0
+,Gray,Kansas,-100.4379,37.7382,2,imported,0.0
+,Gray,Kansas,-100.4379,37.7382,2,local,2.0
 ,Guilford,North Carolina,-79.7889,36.0795,1,imported,1.0
 ,Guilford,North Carolina,-79.7889,36.0795,1,local,0.0
 ,Hale,Texas,-101.8269,34.0705,0,imported,0.0
@@ -153,8 +153,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Ingham,Michigan,-84.3735,42.5971,0,local,0.0
 ,Kenai Peninsula,Alaska,-151.5651,60.2654,0,imported,0.0
 ,Kenai Peninsula,Alaska,-151.5651,60.2654,0,local,0.0
-,Kent,Michigan,-85.5493,43.0322,0,imported,0.0
-,Kent,Michigan,-85.5493,43.0322,0,local,0.0
+,Kent,Michigan,-85.5493,43.0322,1,imported,-1.0
+,Kent,Michigan,-85.5493,43.0322,1,local,2.0
 ,King,Washington,-121.8052,47.4902,2,imported,0.0
 ,King,Washington,-121.8052,47.4902,2,local,2.0
 ,Kiowa,Kansas,-99.2861,37.5582,0,imported,0.0
@@ -205,6 +205,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Multnomah,Oregon,-122.4149,45.5468,1,local,0.0
 ,Muskegon,Michigan,-86.152,43.2912,1,imported,0.0
 ,Muskegon,Michigan,-86.152,43.2912,1,local,1.0
+,Natrona,Wyoming,-106.7986,42.9622,1,imported,0.0
+,Natrona,Wyoming,-106.7986,42.9622,1,local,1.0
 ,Navajo,Arizona,-110.3214,35.3996,0,imported,0.0
 ,Navajo,Arizona,-110.3214,35.3996,0,local,0.0
 ,New Madrid,Missouri,-89.6517,36.5946,0,imported,0.0
@@ -301,14 +303,12 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Unknown County,Minnesota,-93.558751,45.18999,0,local,0.0
 ,Unknown County,Oklahoma,-96.854171,35.606866,0,imported,0.0
 ,Unknown County,Oklahoma,-96.854171,35.606866,0,local,0.0
-,Unknown County,Utah,-111.948021,40.385835,2,imported,0.0
-,Unknown County,Utah,-111.948021,40.385835,2,local,2.0
 ,Upper Cumberland Region,Tennessee,-85.5394,36.1541,0,imported,0.0
 ,Upper Cumberland Region,Tennessee,-85.5394,36.1541,0,local,0.0
 ,Upshur,Texas,-94.9415,32.7363,0,imported,0.0
 ,Upshur,Texas,-94.9415,32.7363,0,local,0.0
-,Utah,Utah,-111.6702,40.1199,3,imported,0.0
-,Utah,Utah,-111.6702,40.1199,3,local,3.0
+,Utah,Utah,-111.6702,40.1199,7,imported,0.0
+,Utah,Utah,-111.6702,40.1199,7,local,7.0
 ,Washington,District of Columbia,-77.0163,38.9047,0,imported,0.0
 ,Washington,District of Columbia,-77.0163,38.9047,0,local,0.0
 ,Washington,Minnesota,-92.8838,45.0388,0,imported,0.0
