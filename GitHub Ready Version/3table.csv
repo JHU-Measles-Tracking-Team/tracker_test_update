@@ -1,5 +1,5 @@
 County,Imported,Local,Total,Recent 2 Weeks
-U.S.,99,1166,1265,56
+U.S.,99,1169,1268,55
 "Gaines, Texas",0,414,414,1
 "Lea, New Mexico",0,67,67,0
 "El Paso, Texas",0,61,61,1
@@ -10,14 +10,14 @@ U.S.,99,1166,1265,56
 "Lamar, Texas",0,26,26,3
 "Yoakum, Texas",0,20,20,0
 "Haskell, Kansas",0,18,18,1
+"Gallatin, Montana",5,12,17,1
 "Unknown County, Kansas",0,17,17,0
 "Unknown County, Oklahoma",0,17,17,0
 "Ashtabula, Ohio",3,13,16,0
-"Gallatin, Montana",5,11,16,4
 "Williams, North Dakota",1,15,16,0
 "Cochran, Texas",0,14,14,0
 "Knox, Ohio",0,14,14,0
-"Luna, New Mexico",0,13,13,13
+"Luna, New Mexico",0,14,14,14
 "Ector, Texas",0,12,12,0
 "Grand Forks, North Dakota",2,8,10,0
 "McLennan, Texas",0,9,9,0
@@ -162,6 +162,7 @@ U.S.,99,1166,1265,56
 "Unknown County, Colorado",0,1,1,1
 "Unknown County, Kentucky",1,0,1,1
 "Unknown County, Minnesota",0,1,1,0
+"Unknown County, New Jersey",0,1,1,1
 "Washington, District of Columbia",1,0,1,0
 "Washington, Minnesota",1,0,1,0
 "Yolo, California",0,1,1,0

@@ -113,8 +113,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Fulton,Georgia,-84.467,33.7902,6,local,4.0
 ,Gaines,Texas,-102.6352,32.7408,414,imported,0.0
 ,Gaines,Texas,-102.6352,32.7408,414,local,414.0
-,Gallatin,Montana,-111.1704,45.5404,16,imported,5.0
-,Gallatin,Montana,-111.1704,45.5404,16,local,11.0
+,Gallatin,Montana,-111.1704,45.5404,17,imported,5.0
+,Gallatin,Montana,-111.1704,45.5404,17,local,12.0
 ,Garza,Texas,-101.2984,33.1799,2,imported,0.0
 ,Garza,Texas,-101.2984,33.1799,2,local,2.0
 ,Grand Forks,North Dakota,-97.4569,47.9219,10,imported,2.0
@@ -177,8 +177,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Los Angeles,California,-118.2247,34.3219,5,local,0.0
 ,Lubbock,Texas,-101.8205,33.6102,53,imported,0.0
 ,Lubbock,Texas,-101.8205,33.6102,53,local,53.0
-,Luna,New Mexico,-107.7499,32.1823,13,imported,0.0
-,Luna,New Mexico,-107.7499,32.1823,13,local,13.0
+,Luna,New Mexico,-107.7499,32.1823,14,imported,0.0
+,Luna,New Mexico,-107.7499,32.1823,14,local,14.0
 ,Lynn,Texas,-101.8161,33.1768,2,imported,0.0
 ,Lynn,Texas,-101.8161,33.1768,2,local,2.0
 ,Macomb,Michigan,-82.9323,42.6957,2,imported,1.0
@@ -301,6 +301,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Unknown County,Kentucky,-85.261296,37.838308,1,local,0.0
 ,Unknown County,Minnesota,-93.558751,45.18999,1,imported,0.0
 ,Unknown County,Minnesota,-93.558751,45.18999,1,local,1.0
+,Unknown County,New Jersey,-74.424465,40.438248,1,imported,0.0
+,Unknown County,New Jersey,-74.424465,40.438248,1,local,1.0
 ,Unknown County,Oklahoma,-96.854171,35.606866,17,imported,0.0
 ,Unknown County,Oklahoma,-96.854171,35.606866,17,local,17.0
 ,Upper Cumberland Region,Tennessee,-85.5394,36.1541,4,imported,0.0
