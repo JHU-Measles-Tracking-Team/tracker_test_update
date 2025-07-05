@@ -171,8 +171,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Lancaster,Pennsylvania,-76.2477,40.0424,1,local,1.0
 ,Lea,New Mexico,-103.4125,32.7921,67,imported,0.0
 ,Lea,New Mexico,-103.4125,32.7921,67,local,67.0
-,Leon,Florida,-84.2779,30.458,1,imported,1.0
-,Leon,Florida,-84.2779,30.458,1,local,0.0
+,Leon,Florida,-84.2779,30.458,2,imported,1.0
+,Leon,Florida,-84.2779,30.458,2,local,1.0
 ,Los Angeles,California,-118.2247,34.3219,5,imported,5.0
 ,Los Angeles,California,-118.2247,34.3219,5,local,0.0
 ,Lubbock,Texas,-101.8205,33.6102,53,imported,0.0
@@ -301,6 +301,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Unknown County,Kentucky,-85.261296,37.838308,1,local,0.0
 ,Unknown County,Minnesota,-93.558751,45.18999,1,imported,0.0
 ,Unknown County,Minnesota,-93.558751,45.18999,1,local,1.0
+,Unknown County,Missouri,-92.234929,38.432921,5,imported,0.0
+,Unknown County,Missouri,-92.234929,38.432921,5,local,5.0
 ,Unknown County,New Jersey,-74.424465,40.438248,1,imported,0.0
 ,Unknown County,New Jersey,-74.424465,40.438248,1,local,1.0
 ,Unknown County,Oklahoma,-96.854171,35.606866,17,imported,0.0

@@ -1,5 +1,5 @@
 County,Imported,Local,Total,Recent 2 Weeks
-U.S.,99,1169,1268,55
+U.S.,99,1175,1274,57
 "Gaines, Texas",0,414,414,1
 "Lea, New Mexico",0,67,67,0
 "El Paso, Texas",0,61,61,1
@@ -27,7 +27,7 @@ U.S.,99,1169,1268,55
 "Dallam, Texas",0,7,7,0
 "Pawnee, Kansas",0,7,7,0
 "Stevens, Kansas",0,7,7,0
-"Utah, Utah",0,7,7,7
+"Utah, Utah",0,7,7,6
 "Cook, Illinois",1,5,6,0
 "Faulkner, Arkansas",1,5,6,0
 "Fulton, Georgia",2,4,6,0
@@ -42,12 +42,13 @@ U.S.,99,1169,1268,55
 "Hale, Texas",0,5,5,0
 "Los Angeles, California",5,0,5,0
 "Parmer, Texas",0,5,5,0
+"Unknown County, Missouri",0,5,5,5
 "Upshur, Texas",0,5,5,0
 "Arapahoe, Colorado",4,0,4,0
 "Collin, Texas",0,4,4,0
 "Denver, Colorado",3,1,4,0
 "El Paso, Colorado",4,0,4,0
-"Grand Traverse, Michigan",0,4,4,3
+"Grand Traverse, Michigan",0,4,4,2
 "Hill, Montana",0,4,4,0
 "Montcalm, Michigan",1,3,4,0
 "Navajo, Arizona",4,0,4,0
@@ -74,6 +75,7 @@ U.S.,99,1169,1268,55
 "Hennepin, Minnesota",2,0,2,0
 "Honolulu, Hawaii",2,0,2,0
 "Kent, Michigan",0,2,2,1
+"Leon, Florida",1,1,2,1
 "Lynn, Texas",0,2,2,0
 "Macomb, Michigan",1,1,2,0
 "Marquette, Michigan",0,2,2,0
@@ -89,7 +91,7 @@ U.S.,99,1169,1268,55
 "Southwest Health District, Utah",0,2,2,2
 "Travis, Texas",0,2,2,0
 "Tuolumne, California",2,0,2,0
-"Whatcom, Washington",0,2,2,2
+"Whatcom, Washington",0,2,2,1
 "Yellowstone, Montana",0,2,2,0
 "Allegan, Michigan",0,1,1,0
 "Allen, Ohio",1,0,1,0
@@ -131,7 +133,6 @@ U.S.,99,1169,1268,55
 "Lamb, Texas",0,1,1,0
 "Lamoille, Vermont",1,0,1,0
 "Lancaster, Pennsylvania",0,1,1,0
-"Leon, Florida",1,0,1,0
 "Miami-Dade, Florida",0,1,1,0
 "Montgomery, Pennsylvania",1,0,1,0
 "Multnomah, Oregon",1,0,1,1
@@ -159,7 +160,7 @@ U.S.,99,1169,1268,55
 "Taney, Missouri",1,0,1,0
 "Todd, Kentucky",0,1,1,1
 "Unknown County, California",0,1,1,0
-"Unknown County, Colorado",0,1,1,1
+"Unknown County, Colorado",0,1,1,0
 "Unknown County, Kentucky",1,0,1,1
 "Unknown County, Minnesota",0,1,1,0
 "Unknown County, New Jersey",0,1,1,1
