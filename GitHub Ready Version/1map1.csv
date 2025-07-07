@@ -97,8 +97,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Fannin,Texas,-96.1069,33.5938,1,local,1.0
 ,Faulkner,Arkansas,-92.332,35.147,6,imported,1.0
 ,Faulkner,Arkansas,-92.332,35.147,6,local,5.0
-,Fayette,Kentucky,-84.4587,38.0423,1,imported,0.0
-,Fayette,Kentucky,-84.4587,38.0423,1,local,1.0
+,Fayette,Kentucky,-84.4587,38.0423,5,imported,0.0
+,Fayette,Kentucky,-84.4587,38.0423,5,local,5.0
 ,Flathead,Montana,-114.0497,48.2951,2,imported,2.0
 ,Flathead,Montana,-114.0497,48.2951,2,local,0.0
 ,Fort Bend,Texas,-95.7709,29.5275,1,imported,0.0
