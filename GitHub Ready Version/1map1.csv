@@ -133,8 +133,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Harris,Texas,-95.3938,29.8578,3,local,3.0
 ,Harrison,Texas,-94.3715,32.5481,1,imported,0.0
 ,Harrison,Texas,-94.3715,32.5481,1,local,1.0
-,Haskell,Kansas,-100.8712,37.5622,18,imported,0.0
-,Haskell,Kansas,-100.8712,37.5622,18,local,18.0
+,Haskell,Kansas,-100.8712,37.5622,19,imported,0.0
+,Haskell,Kansas,-100.8712,37.5622,19,local,19.0
 ,Hays,Texas,-98.0312,30.0579,1,imported,0.0
 ,Hays,Texas,-98.0312,30.0579,1,local,1.0
 ,Hennepin,Minnesota,-93.477,45.0046,2,imported,2.0
@@ -275,8 +275,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Snohomish,Washington,-121.6972,48.0474,2,local,0.0
 ,Southwest Health District,Utah,-113.3625,37.449,2,imported,0.0
 ,Southwest Health District,Utah,-113.3625,37.449,2,local,2.0
-,Stevens,Kansas,-101.3121,37.1923,7,imported,0.0
-,Stevens,Kansas,-101.3121,37.1923,7,local,7.0
+,Stevens,Kansas,-101.3121,37.1923,9,imported,0.0
+,Stevens,Kansas,-101.3121,37.1923,9,local,9.0
 ,Suffolk,New York,-72.8456,40.8681,1,imported,0.0
 ,Suffolk,New York,-72.8456,40.8681,1,local,1.0
 ,Taney,Missouri,-93.0411,36.6548,1,imported,1.0

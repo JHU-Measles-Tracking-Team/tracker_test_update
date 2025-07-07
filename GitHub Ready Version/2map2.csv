@@ -113,14 +113,14 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Fulton,Georgia,-84.467,33.7902,0,local,0.0
 ,Gaines,Texas,-102.6352,32.7408,1,imported,0.0
 ,Gaines,Texas,-102.6352,32.7408,1,local,1.0
-,Gallatin,Montana,-111.1704,45.5404,1,imported,0.0
-,Gallatin,Montana,-111.1704,45.5404,1,local,1.0
+,Gallatin,Montana,-111.1704,45.5404,0,imported,0.0
+,Gallatin,Montana,-111.1704,45.5404,0,local,0.0
 ,Garza,Texas,-101.2984,33.1799,0,imported,0.0
 ,Garza,Texas,-101.2984,33.1799,0,local,0.0
 ,Grand Forks,North Dakota,-97.4569,47.9219,0,imported,0.0
 ,Grand Forks,North Dakota,-97.4569,47.9219,0,local,0.0
-,Grand Traverse,Michigan,-85.5605,44.6687,2,imported,0.0
-,Grand Traverse,Michigan,-85.5605,44.6687,2,local,2.0
+,Grand Traverse,Michigan,-85.5605,44.6687,1,imported,0.0
+,Grand Traverse,Michigan,-85.5605,44.6687,1,local,1.0
 ,Gray,Kansas,-100.4379,37.7382,2,imported,0.0
 ,Gray,Kansas,-100.4379,37.7382,2,local,2.0
 ,Guilford,North Carolina,-79.7889,36.0795,1,imported,1.0
@@ -133,8 +133,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Harris,Texas,-95.3938,29.8578,0,local,0.0
 ,Harrison,Texas,-94.3715,32.5481,0,imported,0.0
 ,Harrison,Texas,-94.3715,32.5481,0,local,0.0
-,Haskell,Kansas,-100.8712,37.5622,1,imported,0.0
-,Haskell,Kansas,-100.8712,37.5622,1,local,1.0
+,Haskell,Kansas,-100.8712,37.5622,2,imported,0.0
+,Haskell,Kansas,-100.8712,37.5622,2,local,2.0
 ,Hays,Texas,-98.0312,30.0579,0,imported,0.0
 ,Hays,Texas,-98.0312,30.0579,0,local,0.0
 ,Hennepin,Minnesota,-93.477,45.0046,0,imported,0.0
@@ -275,8 +275,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Snohomish,Washington,-121.6972,48.0474,0,local,0.0
 ,Southwest Health District,Utah,-113.3625,37.449,2,imported,0.0
 ,Southwest Health District,Utah,-113.3625,37.449,2,local,2.0
-,Stevens,Kansas,-101.3121,37.1923,0,imported,0.0
-,Stevens,Kansas,-101.3121,37.1923,0,local,0.0
+,Stevens,Kansas,-101.3121,37.1923,2,imported,0.0
+,Stevens,Kansas,-101.3121,37.1923,2,local,2.0
 ,Suffolk,New York,-72.8456,40.8681,0,imported,0.0
 ,Suffolk,New York,-72.8456,40.8681,0,local,0.0
 ,Taney,Missouri,-93.0411,36.6548,0,imported,0.0
@@ -317,8 +317,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Washington,District of Columbia,-77.0163,38.9047,0,local,0.0
 ,Washington,Minnesota,-92.8838,45.0388,0,imported,0.0
 ,Washington,Minnesota,-92.8838,45.0388,0,local,0.0
-,Whatcom,Washington,-121.7199,48.8259,1,imported,0.0
-,Whatcom,Washington,-121.7199,48.8259,1,local,1.0
+,Whatcom,Washington,-121.7199,48.8259,0,imported,0.0
+,Whatcom,Washington,-121.7199,48.8259,0,local,0.0
 ,Williams,North Dakota,-103.4802,48.3437,0,imported,0.0
 ,Williams,North Dakota,-103.4802,48.3437,0,local,0.0
 ,Williamson,Illinois,-88.9299,37.7303,0,imported,0.0
