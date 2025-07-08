@@ -1,13 +1,13 @@
 County,Imported,Local,Total,Recent 2 Weeks
-U.S.,99,1182,1281,61
+U.S.,99,1184,1283,54
 "Gaines, Texas",0,414,414,1
 "Lea, New Mexico",0,67,67,0
 "El Paso, Texas",0,61,61,1
 "Terry, Texas",0,60,60,0
 "Lubbock, Texas",0,53,53,0
 "Gray, Kansas",0,28,28,2
+"Lamar, Texas",0,28,28,5
 "Dawson, Texas",0,26,26,0
-"Lamar, Texas",0,26,26,3
 "Yoakum, Texas",0,20,20,0
 "Haskell, Kansas",0,19,19,2
 "Gallatin, Montana",5,12,17,0
@@ -27,23 +27,23 @@ U.S.,99,1182,1281,61
 "Cass, North Dakota",2,5,7,0
 "Dallam, Texas",0,7,7,0
 "Pawnee, Kansas",0,7,7,0
-"Utah, Utah",0,7,7,6
+"Utah, Utah",0,7,7,5
 "Cook, Illinois",1,5,6,0
 "Faulkner, Arkansas",1,5,6,0
 "Fulton, Georgia",2,4,6,0
 "Hockley, Texas",0,6,6,0
-"King, Washington",3,3,6,2
+"King, Washington",3,3,6,0
 "Kiowa, Kansas",0,6,6,0
 "Midland, Texas",0,6,6,0
 "New York, New York",0,6,6,0
 "Sandoval, New Mexico",0,6,6,0
 "Williamson, Texas",0,6,6,0
+"Cedar, Missouri",0,5,5,4
 "Eastern, Iowa",1,4,5,0
 "Fayette, Kentucky",0,5,5,5
 "Hale, Texas",0,5,5,0
 "Los Angeles, California",5,0,5,0
 "Parmer, Texas",0,5,5,0
-"Unknown County, Missouri",0,5,5,5
 "Upshur, Texas",0,5,5,0
 "Arapahoe, Colorado",4,0,4,0
 "Collin, Texas",0,4,4,0
@@ -89,7 +89,7 @@ U.S.,99,1182,1281,61
 "Reeves, Texas",0,2,2,0
 "Rockwall, Texas",0,2,2,0
 "Snohomish, Washington",2,0,2,0
-"Southwest Health District, Utah",0,2,2,2
+"Southwest Health District, Utah",0,2,2,1
 "Travis, Texas",0,2,2,0
 "Tuolumne, California",2,0,2,0
 "Whatcom, Washington",0,2,2,0
@@ -115,14 +115,14 @@ U.S.,99,1182,1281,61
 "Curry, New Mexico",0,1,1,0
 "Cuyahoga, Ohio",1,0,1,0
 "Dakota, Minnesota",0,1,1,0
-"Dallas, Texas",0,1,1,1
+"Dallas, Texas",0,1,1,0
 "Defiance, Ohio",1,0,1,0
 "Erath, Texas",0,1,1,0
-"Fannin, Texas",0,1,1,1
+"Fannin, Texas",0,1,1,0
 "Fort Bend, Texas",0,1,1,0
 "Franklin, Kentucky",1,0,1,0
 "Franklin, Ohio",0,1,1,0
-"Guilford, North Carolina",1,0,1,1
+"Guilford, North Carolina",1,0,1,0
 "Hardeman, Texas",0,1,1,0
 "Harrison, Texas",0,1,1,0
 "Hays, Texas",0,1,1,0
@@ -135,7 +135,7 @@ U.S.,99,1182,1281,61
 "Lancaster, Pennsylvania",0,1,1,0
 "Miami-Dade, Florida",0,1,1,0
 "Montgomery, Pennsylvania",1,0,1,0
-"Multnomah, Oregon",1,0,1,1
+"Multnomah, Oregon",1,0,1,0
 "Muskegon, Michigan",0,1,1,1
 "Natrona, Wyoming",0,1,1,1
 "New Madrid, Missouri",0,1,1,0

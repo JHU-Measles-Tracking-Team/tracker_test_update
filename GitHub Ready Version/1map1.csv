@@ -47,6 +47,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Carson,Texas,-101.3542,35.4035,1,local,1.0
 ,Cass,North Dakota,-97.248,46.933,7,imported,2.0
 ,Cass,North Dakota,-97.248,46.933,7,local,5.0
+,Cedar,Missouri,-93.8566,37.7239,5,imported,0.0
+,Cedar,Missouri,-93.8566,37.7239,5,local,5.0
 ,Central,Iowa,-93.40754375,41.84471875,1,imported,0.0
 ,Central,Iowa,-93.40754375,41.84471875,1,local,1.0
 ,Chaves,New Mexico,-104.4669,33.3633,1,imported,0.0
@@ -161,8 +163,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Kiowa,Kansas,-99.2861,37.5582,6,local,6.0
 ,Knox,Ohio,-82.4215,40.3988,14,imported,0.0
 ,Knox,Ohio,-82.4215,40.3988,14,local,14.0
-,Lamar,Texas,-95.5712,33.6673,26,imported,0.0
-,Lamar,Texas,-95.5712,33.6673,26,local,26.0
+,Lamar,Texas,-95.5712,33.6673,28,imported,0.0
+,Lamar,Texas,-95.5712,33.6673,28,local,28.0
 ,Lamb,Texas,-102.3517,34.0686,1,imported,0.0
 ,Lamb,Texas,-102.3517,34.0686,1,local,1.0
 ,Lamoille,Vermont,-72.6419,44.607,1,imported,1.0
@@ -301,8 +303,6 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Unknown County,Kentucky,-85.261296,37.838308,1,local,0.0
 ,Unknown County,Minnesota,-93.558751,45.18999,1,imported,0.0
 ,Unknown County,Minnesota,-93.558751,45.18999,1,local,1.0
-,Unknown County,Missouri,-92.234929,38.432921,5,imported,0.0
-,Unknown County,Missouri,-92.234929,38.432921,5,local,5.0
 ,Unknown County,New Jersey,-74.424465,40.438248,1,imported,0.0
 ,Unknown County,New Jersey,-74.424465,40.438248,1,local,1.0
 ,Unknown County,Oklahoma,-96.854171,35.606866,17,imported,0.0
