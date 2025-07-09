@@ -135,8 +135,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Harris,Texas,-95.3938,29.8578,3,local,3.0
 ,Harrison,Texas,-94.3715,32.5481,1,imported,0.0
 ,Harrison,Texas,-94.3715,32.5481,1,local,1.0
-,Haskell,Kansas,-100.8712,37.5622,19,imported,0.0
-,Haskell,Kansas,-100.8712,37.5622,19,local,19.0
+,Haskell,Kansas,-100.8712,37.5622,20,imported,0.0
+,Haskell,Kansas,-100.8712,37.5622,20,local,20.0
 ,Hays,Texas,-98.0312,30.0579,1,imported,0.0
 ,Hays,Texas,-98.0312,30.0579,1,local,1.0
 ,Hennepin,Minnesota,-93.477,45.0046,2,imported,2.0
@@ -175,6 +175,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Lea,New Mexico,-103.4125,32.7921,67,local,67.0
 ,Leon,Florida,-84.2779,30.458,2,imported,1.0
 ,Leon,Florida,-84.2779,30.458,2,local,1.0
+,Lincoln,South Dakota,-96.7218,43.2789,8,imported,7.0
+,Lincoln,South Dakota,-96.7218,43.2789,8,local,1.0
 ,Los Angeles,California,-118.2247,34.3219,5,imported,5.0
 ,Los Angeles,California,-118.2247,34.3219,5,local,0.0
 ,Lubbock,Texas,-101.8205,33.6102,53,imported,0.0
@@ -231,8 +233,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Parmer,Texas,-102.7845,34.5301,5,local,5.0
 ,Pawnee,Kansas,-99.2367,38.1813,7,imported,0.0
 ,Pawnee,Kansas,-99.2367,38.1813,7,local,7.0
-,Pennington,South Dakota,-102.8238,44.0037,2,imported,0.0
-,Pennington,South Dakota,-102.8238,44.0037,2,local,2.0
+,Pennington,South Dakota,-102.8238,44.0037,2,imported,1.0
+,Pennington,South Dakota,-102.8238,44.0037,2,local,1.0
 ,Philadelphia,Pennsylvania,-75.1339,40.0077,2,imported,2.0
 ,Philadelphia,Pennsylvania,-75.1339,40.0077,2,local,0.0
 ,Placer,California,-120.7177,39.0634,1,imported,1.0
@@ -245,6 +247,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Providence,Rhode Island,-71.58,41.8721,1,local,0.0
 ,Pueblo,Colorado,-104.5127,38.1735,1,imported,1.0
 ,Pueblo,Colorado,-104.5127,38.1735,1,local,0.0
+,Putnam,Indiana,-86.845,39.6663,1,imported,0.0
+,Putnam,Indiana,-86.845,39.6663,1,local,1.0
 ,Putnam,New York,-73.7495,41.4267,1,imported,0.0
 ,Putnam,New York,-73.7495,41.4267,1,local,1.0
 ,Randall,Texas,-101.897,34.9659,3,imported,0.0

@@ -1,5 +1,5 @@
 County,Imported,Local,Total,Recent 2 Weeks
-U.S.,99,1184,1283,54
+U.S.,107,1186,1293,62
 "Gaines, Texas",0,414,414,1
 "Lea, New Mexico",0,67,67,0
 "El Paso, Texas",0,61,61,1
@@ -8,8 +8,8 @@ U.S.,99,1184,1283,54
 "Gray, Kansas",0,28,28,2
 "Lamar, Texas",0,28,28,5
 "Dawson, Texas",0,26,26,0
+"Haskell, Kansas",0,20,20,3
 "Yoakum, Texas",0,20,20,0
-"Haskell, Kansas",0,19,19,2
 "Gallatin, Montana",5,12,17,0
 "Unknown County, Kansas",0,17,17,0
 "Unknown County, Oklahoma",0,17,17,0
@@ -24,6 +24,7 @@ U.S.,99,1184,1283,54
 "Stevens, Kansas",0,9,9,2
 "Allen, Indiana",0,8,8,0
 "Erie, Pennsylvania",2,6,8,0
+"Lincoln, South Dakota",7,1,8,6
 "Cass, North Dakota",2,5,7,0
 "Dallam, Texas",0,7,7,0
 "Pawnee, Kansas",0,7,7,0
@@ -83,7 +84,7 @@ U.S.,99,1184,1283,54
 "Meade, South Dakota",1,1,2,0
 "Mid-Cumberland Region, Tennessee",0,2,2,0
 "Orleans, Louisiana",1,1,2,0
-"Pennington, South Dakota",0,2,2,0
+"Pennington, South Dakota",1,1,2,0
 "Philadelphia, Pennsylvania",2,0,2,0
 "Prince George's, Maryland",2,0,2,0
 "Reeves, Texas",0,2,2,0
@@ -146,6 +147,7 @@ U.S.,99,1184,1283,54
 "Potter, Texas",0,1,1,0
 "Providence, Rhode Island",1,0,1,0
 "Pueblo, Colorado",1,0,1,0
+"Putnam, Indiana",0,1,1,1
 "Putnam, New York",0,1,1,0
 "Riverside, California",1,0,1,0
 "Sacramento, California",1,0,1,0
