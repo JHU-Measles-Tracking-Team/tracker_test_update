@@ -99,8 +99,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Fannin,Texas,-96.1069,33.5938,1,local,1.0
 ,Faulkner,Arkansas,-92.332,35.147,6,imported,1.0
 ,Faulkner,Arkansas,-92.332,35.147,6,local,5.0
-,Fayette,Kentucky,-84.4587,38.0423,5,imported,0.0
-,Fayette,Kentucky,-84.4587,38.0423,5,local,5.0
+,Fayette,Kentucky,-84.4587,38.0423,6,imported,0.0
+,Fayette,Kentucky,-84.4587,38.0423,6,local,6.0
 ,Flathead,Montana,-114.0497,48.2951,2,imported,2.0
 ,Flathead,Montana,-114.0497,48.2951,2,local,0.0
 ,Fort Bend,Texas,-95.7709,29.5275,1,imported,0.0
@@ -123,8 +123,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Grand Forks,North Dakota,-97.4569,47.9219,10,local,8.0
 ,Grand Traverse,Michigan,-85.5605,44.6687,4,imported,0.0
 ,Grand Traverse,Michigan,-85.5605,44.6687,4,local,4.0
-,Gray,Kansas,-100.4379,37.7382,28,imported,0.0
-,Gray,Kansas,-100.4379,37.7382,28,local,28.0
+,Gray,Kansas,-100.4379,37.7382,29,imported,0.0
+,Gray,Kansas,-100.4379,37.7382,29,local,29.0
 ,Guilford,North Carolina,-79.7889,36.0795,1,imported,1.0
 ,Guilford,North Carolina,-79.7889,36.0795,1,local,0.0
 ,Hale,Texas,-101.8269,34.0705,5,imported,0.0
@@ -135,8 +135,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Harris,Texas,-95.3938,29.8578,3,local,3.0
 ,Harrison,Texas,-94.3715,32.5481,1,imported,0.0
 ,Harrison,Texas,-94.3715,32.5481,1,local,1.0
-,Haskell,Kansas,-100.8712,37.5622,20,imported,0.0
-,Haskell,Kansas,-100.8712,37.5622,20,local,20.0
+,Haskell,Kansas,-100.8712,37.5622,21,imported,0.0
+,Haskell,Kansas,-100.8712,37.5622,21,local,21.0
 ,Hays,Texas,-98.0312,30.0579,1,imported,0.0
 ,Hays,Texas,-98.0312,30.0579,1,local,1.0
 ,Hennepin,Minnesota,-93.477,45.0046,2,imported,2.0
@@ -215,12 +215,16 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Navajo,Arizona,-110.3214,35.3996,4,local,0.0
 ,New Madrid,Missouri,-89.6517,36.5946,1,imported,0.0
 ,New Madrid,Missouri,-89.6517,36.5946,1,local,1.0
-,New York,New York,-73.9668,40.7792,6,imported,0.0
-,New York,New York,-73.9668,40.7792,6,local,6.0
+,New York,New York,-73.9668,40.7792,7,imported,0.0
+,New York,New York,-73.9668,40.7792,7,local,7.0
+,Niobrara,Wyoming,-104.4754,43.0564,1,imported,0.0
+,Niobrara,Wyoming,-104.4754,43.0564,1,local,1.0
 ,Northwest Region,Virginia,-78.1659225,38.47988218,3,imported,2.0
 ,Northwest Region,Virginia,-78.1659225,38.47988218,3,local,1.0
 ,Oakland,Michigan,-83.3858,42.6604,1,imported,1.0
 ,Oakland,Michigan,-83.3858,42.6604,1,local,0.0
+,Ocean,New Jersey,-74.2814,39.8856,1,imported,0.0
+,Ocean,New Jersey,-74.2814,39.8856,1,local,1.0
 ,Ontario,New York,-77.2998,42.8528,1,imported,0.0
 ,Ontario,New York,-77.2998,42.8528,1,local,1.0
 ,Orange,California,-117.7609,33.7031,1,imported,1.0
@@ -315,6 +319,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Upper Cumberland Region,Tennessee,-85.5394,36.1541,4,local,4.0
 ,Upshur,Texas,-94.9415,32.7363,5,imported,0.0
 ,Upshur,Texas,-94.9415,32.7363,5,local,5.0
+,Upstate,South Carolina,-82.32325826,34.77834072,1,imported,1.0
+,Upstate,South Carolina,-82.32325826,34.77834072,1,local,0.0
 ,Utah,Utah,-111.6702,40.1199,7,imported,0.0
 ,Utah,Utah,-111.6702,40.1199,7,local,7.0
 ,Washington,District of Columbia,-77.0163,38.9047,1,imported,1.0
@@ -323,8 +329,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Washington,Minnesota,-92.8838,45.0388,1,local,0.0
 ,Whatcom,Washington,-121.7199,48.8259,2,imported,0.0
 ,Whatcom,Washington,-121.7199,48.8259,2,local,2.0
-,Williams,North Dakota,-103.4802,48.3437,16,imported,1.0
-,Williams,North Dakota,-103.4802,48.3437,16,local,15.0
+,Williams,North Dakota,-103.4802,48.3437,17,imported,1.0
+,Williams,North Dakota,-103.4802,48.3437,17,local,16.0
 ,Williamson,Illinois,-88.9299,37.7303,4,imported,0.0
 ,Williamson,Illinois,-88.9299,37.7303,4,local,4.0
 ,Williamson,Texas,-97.6004,30.6475,6,imported,0.0
